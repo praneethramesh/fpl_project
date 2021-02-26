@@ -6,7 +6,7 @@ import time
 
 @st.cache
 def get_FPL_data():
-    df = pd.read_csv("/Users/praneethramesh/Downloads/FPL20-GW20.csv")
+    df = pd.read_csv("/FPL20-GW20.csv")
     return df.set_index("Team")
 
 st.title('FPL Statistics WebApp')
