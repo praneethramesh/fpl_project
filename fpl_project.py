@@ -9,7 +9,7 @@ import time
 
 @st.cache
 def get_FPL_data():
-    df = pd.read_csv("/Users/praneethramesh/Downloads/FPL20-GW20.csv")
+    df = pd.read_csv("FPL20-GW20.csv")
     df = df.drop('GW21Forecast', 1)
     df = df.drop('GW22Forecast', 1)
     df = df.drop('GW23Forecast', 1)
