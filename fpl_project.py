@@ -52,7 +52,6 @@ def map_df(df):
 def run_data():
     df1=map_df(df)
     df1
-    st.write(df1.iloc[0]['Player'],', has the highest predicted score for GW30')
     df1=df1.head(10)
     fig = px.line(df1, x ='Predicted Points',y='FirstName')
     st.plotly_chart(fig)
