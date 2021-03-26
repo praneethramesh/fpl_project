@@ -7,31 +7,23 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import time
 
-#page_bg_img = '''
-#<style>
-#body {
-#background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMJo6h2zgISKQTzhlyAGjkIi8C4VJery5Yg&usqp=CAU");
-#background-size: cover;
-#}
-#</style>
-#'''
-
-#st.markdown(page_bg_img, unsafe_allow_html=True)
-
 @st.cache
 def get_FPL_data():
-    df = pd.read_csv("combined_GW28.csv")
-    return df.set_index('FirstName')
+    df = pd.read_csv("combined_GW30.csv")
+    return df
 
-st.title('FPL Predicting WebApp')
+st.title('FPL Predictions WebApp')
+
+st.markdown('GW 30 Predictions')
 
 st.markdown('Choose the teams and positions for which you want to scout players for FPL and click Apply')
 
+st.markdown('We have formulated a top 10 list for Strikers, Midfielders and Defenders and a top 5 list for Goalkeepers by default')
+
 df=get_FPL_data()
 
-
-
 st.sidebar.subheader('Filters')
+
 #Sidebar Options
 params={
 'Team' : st.sidebar.multiselect('Team',df['Team'].unique()),
@@ -41,11 +33,10 @@ params={
 'Remove' :st.sidebar.checkbox('Disregard players unlikely to play')
 }
 
-
 def map_df(df):
     df=df[df['Predicted Points'] > 0.1]
     if params['Remove']==1:
-        df=df[df['Play Probability'] > 0]
+        df=df[df['Play Probability'] > 0.5]
 
     if params['All']==1:
         df=df[df['Position']==params['Positions']]
@@ -61,16 +52,88 @@ def map_df(df):
 def run_data():
     df1=map_df(df)
     df1
-
-    fig = px.line(df1, x ='Player',y='Predicted Points')
+    st.write(df1.iloc[0]['Player'],', has the highest predicted score for GW30')
+    df1=df1.head(10)
+    fig = px.line(df1, x ='Predicted Points',y='FirstName')
     st.plotly_chart(fig)
 
+def top10fwd(df):
+    df=df[df['Predicted Points'] > 0.1]
+    df=df[df['Play Probability'] > 0.5]
+    df=df[df['Position']=='FWD']
+    
+    df2=df.head(10)
+    df2
+
+    st.write(df2.iloc[0]['Player'],', has the highest predicted score for GW30')
+    fig = px.line(df2, x ='Predicted Points',y='FirstName')
+    st.plotly_chart(fig)
+
+def top10mid(df):
+    df=df[df['Predicted Points'] > 0.1]
+    df=df[df['Play Probability'] > 0.5]
+    df=df[df['Position']=='MID']
+    
+    df3=df.head(10)
+    df3
+
+    st.write(df3.iloc[0]['Player'],', has the highest predicted score for GW30')
+    fig = px.line(df3, x ='Predicted Points',y='FirstName')
+    st.plotly_chart(fig)
+
+def top10def(df):
+    df=df[df['Predicted Points'] > 0.1]
+    df=df[df['Play Probability'] > 0.5]
+    df=df[df['Position']=='DEF']
+    
+    df4=df.head(10)
+    df4
+    
+    st.write(df4.iloc[0]['Player'],', has the highest predicted score for GW30')
+    fig = px.line(df4, x ='Predicted Points',y='FirstName')
+    st.plotly_chart(fig)
+
+def top5gk(df):
+    df=df[df['Predicted Points'] > 0.1]
+    df=df[df['Play Probability'] > 0.5]
+    df=df[df['Position']=='GK']
+    
+    df5=df.head(5)
+    df5
+
+    st.write(df5.iloc[0]['Player'],', has the highest predicted score for GW30')
+    fig = px.line(df5, x ='Predicted Points',y='FirstName')
+    st.plotly_chart(fig)
+
+def dreamTeam():
+    df6 = pd.read_csv("dreamteam_GW30.csv")
+    
+    return df6
+
 btn = st.sidebar.button("Apply")
+btn_reset = st.sidebar.button("Reset Screen")
+
+if st.button('Top 10 Strikers'):
+    top10fwd(df)
+
+if st.button('Top 10 Midfielders'):
+    top10mid(df)
+
+if st.button('Top 10 Defenders'):
+    top10def(df)
+
+if st.button('Top 5 Goal Keepers'):
+    top5gk(df)
+
 if btn:
     run_data()
 else:
     pass
 
+if btn_reset:
+    get_FPL_data()
+else:
+    pass
 
 if st.sidebar.button('Intercorelation Heatmap'):
     st.header('Intercorelation Matrix Heatmap')
@@ -104,22 +167,17 @@ if st.sidebar.button('Intercorelation Heatmap'):
     st.pyplot(f)
 
 if st.sidebar.button('DreamTeam Composition Prediction'):
-    st.header('Dreamteam in Progress')
-    #data = dict(
-    #    character=["Dreamteam", "Harry Kane", "Salah", "Mane", "Saka", "Mount", "DeBruyne", "Alexander-Arnold", "Cancelo", "Chillwell", "Dias", "Ederson"],
-    #    parent=["", "Forwards", "Forwards", "Forwards", "Midfielder", "Midfielder", "Midfielder", "Defender", "Defender","Defender","Defender","Goalkeeper" ],
-    #    value=[10, 14, 12, 10, 2, 6, 6, 4, 4,6,7,8])
+    st.title("Predicted Dreamteam Composition for GW30")
+    df6=dreamTeam()
+    df6
 
-    #figs =px.sunburst(
-    #    data,
-    #    names='character',
-    #    parents='parent',
-    #    values='value',
-    #)
-    #st.plotly_chart(figs)
+    fig = px.line(df6, x ='Predicted Points',y='FirstName')
+    st.plotly_chart(fig)
 
-#expander = st.beta_expander("FAQ")
-#expander.write("To be Filled in Due Time")
+expander = st.beta_expander("Method behind the Madness:")
+expander.write("We have used the FPL data from 2017-2019 to train our model. We have used XG Boost to predict the FPL points for all the players in GW30 of 20/21 Season")
+expander.write("'The Ball is round, the game lasts 90 minutes, and everything else is just Theory' - Josef Sepp Herberger ")
+expander.write("An experiment by Darshil Prajapati & Praneeth Ramesh")
 
 #left_column, right_column = st.beta_columns(2)
 #pressed = left_column.button('Created By')
