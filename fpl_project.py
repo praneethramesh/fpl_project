@@ -105,7 +105,12 @@ def top5gk(df):
     st.plotly_chart(fig)
 
 def dreamTeam():
-    df6 = pd.read_csv("dreamteam_GW30.csv")
+    df6 = pd.read_csv("dreamteam_main.csv")
+    df7 = pd.read_csv("dreamteam_calc.csv")
+
+    df7 = df7.sort_values(by=['Predicted Points'], ascending=False)
+    df7=df7.head(3)
+    df6=pd.concat([df6,df7],axis=0)
     
     return df6
 
@@ -178,7 +183,3 @@ expander.write("We have used the FPL data from 2017-2019 to train our model. We 
 expander.write("'The Ball is round, the game lasts 90 minutes, and everything else is just Theory' - Josef Sepp Herberger ")
 expander.write("An experiment by Darshil Prajapati & Praneeth Ramesh")
 
-#left_column, right_column = st.beta_columns(2)
-#pressed = left_column.button('Created By')
-#if pressed:
-#    right_column.write("Darshil Prajapati & Praneeth Ramesh")
