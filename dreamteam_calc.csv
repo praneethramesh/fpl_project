@@ -1,0 +1,7 @@
+﻿Player,Predicted Points,Position,Team,Play Probability,Opponent Team,Price,At_Home,Season,Gw,FirstName
+Timothy Castagne,4.679849,DEF,Leicester City,1,Manchester City,5.7,TRUE,2021,30,Castagne
+Kieran Tierney,4.6249266,DEF,Arsenal,1,Liverpool,5.2,TRUE,2021,30,Tierney
+Ruben Diogo da Silva Neves,4.372907,MID,Wolverhampton Wanderers,1,West Ham United,5.1,TRUE,2021,30,Neves
+Marcus Rashford,4.349117,MID,Manchester United,1,Brighton and Hove Albion,9.5,TRUE,2021,30,Rashford
+Jordan Ayew,8.339176,FWD,Crystal Palace,1,Everton,5.6,FALSE,2021,30,Ayew
+Michail Antonio,7.1955943,FWD,West Ham United,1,Wolverhampton Wanderers,6.7,FALSE,2021,30,Antonio

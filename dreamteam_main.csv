@@ -1,0 +1,9 @@
+﻿Player,Predicted Points,Position,Team,Play Probability,Opponent Team,Price,At_Home,Season,Gw,FirstName
+Lukasz Fabianski,5.426902,GK,West Ham United,1,Wolverhampton Wanderers,5,FALSE,2021,30,Fabianski
+Trent Alexander-Arnold,5.255735,DEF,Liverpool,1,Arsenal,7.3,FALSE,2021,30,Alexander-Arnold
+Matt Targett,4.9756207,DEF,Aston Villa,1,Fulham,5.1,TRUE,2021,30,Targett
+Stuart Dallas,4.8966627,DEF,Leeds,1,Sheffield United,5.1,TRUE,2021,30,Dallas
+Bruno Miguel Borges Fernandes,8.421716,MID,Manchester United,1,Brighton and Hove Albion,11.5,TRUE,2021,30,Fernandes
+Ademola Lookman,5.2147045,MID,Fulham,1,Aston Villa,5.1,FALSE,2021,30,Lookman
+Pedro Lomba Neto,4.6187997,MID,Wolverhampton Wanderers,1,West Ham United,5.7,TRUE,2021,30,Neto
+Jamie Vardy,9.050678,FWD,Leicester City,1,Manchester City,10.2,TRUE,2021,30,Vardy
