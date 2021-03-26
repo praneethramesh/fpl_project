@@ -1,0 +1,687 @@
+Player,Predicted Points,Position,Team,Play Probability,Opponent Team,Price,At_Home,Season,Gw,FirstName
+Lukasz Fabianski,5.426902,GK,West Ham United,1,Wolverhampton Wanderers,5,FALSE,2021,30,Fabianski
+Hugo Lloris,5.378811,GK,Tottenham Hotspur,1,Newcastle United,5.6,FALSE,2021,30,Lloris
+Sam Johnstone,4.8536587,GK,West Bromwich Albion,1,Chelsea,4.5,FALSE,2021,30,Johnstone
+Nick Pope,4.664537,GK,Burnley,1,Southampton,5.5,FALSE,2021,30,Pope
+Emiliano Martinez,4.3811283,GK,Aston Villa,1,Fulham,5.4,TRUE,2021,30,Martinez
+Robert Sanchez,4.3769712,GK,Brighton and Hove Albion,1,Manchester United,4.5,FALSE,2021,30,Sanchez
+Rui Pedro dos Santos Patricio,4.130266,GK,Wolverhampton Wanderers,0.75,West Ham United,5.3,TRUE,2021,30,Patricio
+Illan Meslier,3.919234,GK,Leeds,1,Sheffield United,4.6,TRUE,2021,30,Meslier
+Vicente Guaita,3.8801756,GK,Crystal Palace,1,Everton,4.8,FALSE,2021,30,Guaita
+Aaron Ramsdale,3.6038182,GK,Sheffield United,1,Leeds,4.6,FALSE,2021,30,Ramsdale
+Ederson Santana de Moraes,3.5706182,GK,Manchester City,1,Leicester City,6.1,FALSE,2021,30,Ederson
+Bernd Leno,3.0843396,GK,Arsenal,1,Liverpool,5,TRUE,2021,30,Leno
+Jordan Pickford,3.0824294,GK,Everton,0.75,Crystal Palace,4.8,TRUE,2021,30,Pickford
+David de Gea,3.0339804,GK,Manchester United,1,Brighton and Hove Albion,5.3,TRUE,2021,30,de Gea
+Edouard Mendy,3.0133905,GK,Chelsea,1,West Bromwich Albion,5.1,TRUE,2021,30,Mendy
+Alphonse Areola,2.8190365,GK,Fulham,1,Aston Villa,4.6,FALSE,2021,30,Areola
+Dean Henderson,1.9784666,GK,Manchester United,1,Brighton and Hove Albion,5.2,TRUE,2021,30,Henderson
+Kasper Schmeichel,1.6065261,GK,Leicester City,1,Manchester City,5.5,TRUE,2021,30,Schmeichel
+Kepa Arrizabalaga,1.5200379,GK,Chelsea,1,West Bromwich Albion,4.7,TRUE,2021,30,Arrizabalaga
+Alex McCarthy,1.4308584,GK,Southampton,1,Burnley,4.5,TRUE,2021,30,McCarthy
+Alisson Ramses Becker,1.4136344,GK,Liverpool,1,Arsenal,5.9,FALSE,2021,30,Alisson
+AdriÃ¡n San Miguel del Castillo,0.9328627,GK,Liverpool,1,Arsenal,4.2,FALSE,2021,30,AdriÃ¡n
+Karl Darlow,0.8991455,GK,Newcastle United,1,Tottenham Hotspur,5,TRUE,2021,30,Darlow
+Robin Olsen,0.7908654,GK,Everton,0.75,Crystal Palace,4.5,TRUE,2021,30,Olsen
+JoÃ£o VirgÃ­nia,0.70097876,GK,Everton,1,Crystal Palace,4.3,TRUE,2021,30,VirgÃ­nia
+Fraser Forster,0.504754,GK,Southampton,1,Burnley,4,TRUE,2021,30,Forster
+Martin Dubravka,0.4935149,GK,Newcastle United,1,Tottenham Hotspur,4.8,TRUE,2021,30,Dubravka
+Mathew Ryan,0.43827212,GK,Arsenal,1,Liverpool,4.2,TRUE,2021,30,Ryan
+Darren Randolph,0.25681967,GK,West Ham United,0.25,Wolverhampton Wanderers,4.3,FALSE,2021,30,Randolph
+Willy Caballero,0.025448108,GK,Chelsea,1,West Bromwich Albion,4.6,TRUE,2021,30,Caballero
+Lee Grant,0.025448108,GK,Manchester United,1,Brighton and Hove Albion,4,TRUE,2021,30,Grant
+Sergio Romero,0.01913762,GK,Manchester United,0,Brighton and Hove Albion,4.9,TRUE,2021,30,Romero
+Jed Steer,0.01913762,GK,Aston Villa,1,Fulham,3.9,TRUE,2021,30,Steer
+John Ruddy,0.01913762,GK,Wolverhampton Wanderers,1,West Ham United,4.3,TRUE,2021,30,Ruddy
+RÃºnar Alex RÃºnarsson,0.014968167,GK,Arsenal,1,Liverpool,4.4,TRUE,2021,30,RÃºnarsson
+Matt Macey,0.014968167,GK,Arsenal,0,Liverpool,4,TRUE,2021,30,Macey
+Karlo Ziger,0.014968167,GK,Chelsea,1,West Bromwich Albion,4,TRUE,2021,30,Ziger
+Ã˜rjan Nyland,0.014968167,GK,Aston Villa,0,Fulham,4,TRUE,2021,30,Nyland
+Danny Ward,0.014968167,GK,Leicester City,1,Manchester City,4.3,TRUE,2021,30,Ward
+Matija Sarkic,0.014968167,GK,Wolverhampton Wanderers,0,West Ham United,4.4,TRUE,2021,30,Sarkic
+Andreas SÃ¶ndergaard,0.014968167,GK,Wolverhampton Wanderers,1,West Ham United,4,TRUE,2021,30,SÃ¶ndergaard
+Harry Lewis,0.014968167,GK,Southampton,1,Burnley,4,TRUE,2021,30,Lewis
+Daniel Langley,0.014968167,GK,Newcastle United,1,Tottenham Hotspur,3.9,TRUE,2021,30,Langley
+Nathan Bishop,0.014968167,GK,Manchester United,1,Brighton and Hove Albion,4,TRUE,2021,30,Bishop
+Mark Gillespie,0.014968167,GK,Newcastle United,1,Tottenham Hotspur,4.3,TRUE,2021,30,Gillespie
+Francisco Casilla CortÃ©s,0.014968167,GK,Leeds,1,Sheffield United,4.2,TRUE,2021,30,Casilla
+Jonas LÃ¶ssl,0.014968167,GK,Everton,0,Crystal Palace,4.3,TRUE,2021,30,LÃ¶ssl
+Harry Tyrer,0.014968167,GK,Everton,1,Crystal Palace,4,TRUE,2021,30,Tyrer
+Elia Caprile,0.014968167,GK,Leeds,1,Sheffield United,4,TRUE,2021,30,Caprile
+Kamil Miazek,0.014968167,GK,Leeds,0,Sheffield United,4,TRUE,2021,30,Miazek
+Tom Heaton,0.010383477,GK,Aston Villa,1,Fulham,4.5,TRUE,2021,30,Heaton
+Angus Gunn,0.009488544,GK,Southampton,0,Burnley,4.3,TRUE,2021,30,Gunn
+Jack Butland,-0.000298281,GK,Crystal Palace,1,Everton,4.5,FALSE,2021,30,Butland
+Claudio Bravo,-0.00493132,GK,Manchester City,0,Leicester City,4.5,FALSE,2021,30,Bravo
+Joe Hart,-0.0057779,GK,Tottenham Hotspur,1,Newcastle United,4.3,FALSE,2021,30,Hart
+Will Norris,-0.006608768,GK,Burnley,1,Southampton,4,FALSE,2021,30,Norris
+Marek RodÃ¡k,-0.010778227,GK,Fulham,0.25,Aston Villa,4.3,FALSE,2021,30,RodÃ¡k
+Fabricio Agosto RamÃ­rez,-0.010778227,GK,Fulham,1,Aston Villa,3.9,FALSE,2021,30,Fabri
+Liam Hughes,-0.010778227,GK,Liverpool,1,Arsenal,4,FALSE,2021,30,Hughes
+Andy Lonergan,-0.010778227,GK,West Bromwich Albion,1,Chelsea,4,FALSE,2021,30,Lonergan
+Stephen Henderson,-0.010778227,GK,Crystal Palace,1,Everton,4,FALSE,2021,30,Henderson
+Michael Verrips,-0.010778227,GK,Sheffield United,0,Leeds,4,FALSE,2021,30,Verrips
+David Martin,-0.010778227,GK,West Ham United,1,Wolverhampton Wanderers,3.9,FALSE,2021,30,Martin
+Wes Foderingham,-0.010778227,GK,Sheffield United,1,Leeds,4.3,FALSE,2021,30,Foderingham
+Thomas McGill,-0.010778227,GK,Brighton and Hove Albion,1,Manchester United,3.9,FALSE,2021,30,McGill
+Nathan Trott,-0.010778227,GK,West Ham United,1,Wolverhampton Wanderers,4,FALSE,2021,30,Trott
+Paulo Gazzaniga,-0.010778227,GK,Tottenham Hotspur,0,Newcastle United,4.3,FALSE,2021,30,Gazzaniga
+Christian Walton,-0.010778227,GK,Brighton and Hove Albion,1,Manchester United,4,FALSE,2021,30,Walton
+Jason Steele,-0.010778227,GK,Brighton and Hove Albion,1,Manchester United,3.9,FALSE,2021,30,Steele
+James Trafford,-0.010778227,GK,Manchester City,1,Leicester City,4,FALSE,2021,30,Trafford
+Scott Carson,-0.010778227,GK,Manchester City,1,Leicester City,3.9,FALSE,2021,30,Carson
+Jakub Ojrzynski,-0.010778227,GK,Liverpool,1,Arsenal,4,FALSE,2021,30,Ojrzynski
+Zack Steffen,-0.015411267,GK,Manchester City,1,Leicester City,4.4,FALSE,2021,30,Steffen
+Marcus Bettinelli,-0.015411267,GK,Fulham,0,Aston Villa,4.3,FALSE,2021,30,Bettinelli
+Bailey Peacock-Farrell,-0.015411267,GK,Burnley,1,Southampton,4,FALSE,2021,30,Peacock-Farrell
+Simon Moore,-0.015411267,GK,Sheffield United,0,Leeds,4.3,FALSE,2021,30,Moore
+Roberto Jimenez Gago,-0.015411267,GK,West Ham United,0,Wolverhampton Wanderers,4.5,FALSE,2021,30,Roberto
+David Button,-0.016257847,GK,West Bromwich Albion,1,Chelsea,3.9,FALSE,2021,30,Button
+Wayne Hennessey,-0.017699843,GK,Crystal Palace,1,Everton,4.3,FALSE,2021,30,Hennessey
+Caoimhin Kelleher,-0.28328788,GK,Liverpool,0.75,Arsenal,4.5,FALSE,2021,30,Kelleher
+Trent Alexander-Arnold,5.255735,DEF,Liverpool,1,Arsenal,7.3,FALSE,2021,30,Alexander-Arnold
+Matt Targett,4.9756207,DEF,Aston Villa,1,Fulham,5.1,TRUE,2021,30,Targett
+Stuart Dallas,4.8966627,DEF,Leeds,1,Sheffield United,5.1,TRUE,2021,30,Dallas
+Timothy Castagne,4.679849,DEF,Leicester City,1,Manchester City,5.7,TRUE,2021,30,Castagne
+Kieran Tierney,4.6249266,DEF,Arsenal,1,Liverpool,5.2,TRUE,2021,30,Tierney
+Aaron Wan-Bissaka,4.6040735,DEF,Manchester United,1,Brighton and Hove Albion,5.7,TRUE,2021,30,Wan-Bissaka
+Lucas Digne,4.462152,DEF,Everton,1,Crystal Palace,6.2,TRUE,2021,30,Digne
+Matthew Lowton,4.4573107,DEF,Burnley,1,Southampton,4.5,FALSE,2021,30,Lowton
+Luke Shaw,4.4071,DEF,Manchester United,1,Brighton and Hove Albion,5.2,TRUE,2021,30,Shaw
+Ezri Konsa Ngoyo,4.4055557,DEF,Aston Villa,1,Fulham,4.6,TRUE,2021,30,Konsa
+Mason Holgate,4.2325487,DEF,Everton,1,Crystal Palace,4.8,TRUE,2021,30,Holgate
+Ciaran Clark,4.2036157,DEF,Newcastle United,1,Tottenham Hotspur,4.5,TRUE,2021,30,Clark
+Jannik Vestergaard,4.091529,DEF,Southampton,1,Burnley,4.7,TRUE,2021,30,Vestergaard
+Ben Mee,4.0713153,DEF,Burnley,1,Southampton,4.9,FALSE,2021,30,Mee
+David Luiz Moreira Marinho,3.9819822,DEF,Arsenal,1,Liverpool,5.4,TRUE,2021,30,David Luiz
+Ã‡aglar SÃ¶yÃ¼ncÃ¼,3.979371,DEF,Leicester City,1,Manchester City,5.3,TRUE,2021,30,SÃ¶yÃ¼ncÃ¼
+CÃ©sar Azpilicueta,3.979371,DEF,Chelsea,1,West Bromwich Albion,5.8,TRUE,2021,30,Azpilicueta
+Romain SaÃ¯ss,3.979371,DEF,Wolverhampton Wanderers,1,West Ham United,4.9,TRUE,2021,30,SaÃ¯ss
+Lewis Dunk,3.9522104,DEF,Brighton and Hove Albion,1,Manchester United,5,FALSE,2021,30,Dunk
+Jan Bednarek,3.9414847,DEF,Southampton,1,Burnley,4.8,TRUE,2021,30,Bednarek
+Luke Ayling,3.9254837,DEF,Leeds,1,Sheffield United,4.4,TRUE,2021,30,Ayling
+Tyrone Mings,3.8680465,DEF,Aston Villa,1,Fulham,5.4,TRUE,2021,30,Mings
+Ryan Bertrand,3.8675652,DEF,Southampton,1,Burnley,5,TRUE,2021,30,Bertrand
+Jonny Evans,3.8403037,DEF,Leicester City,1,Manchester City,5.5,TRUE,2021,30,Evans
+NÃ©lson Cabral Semedo,3.7644181,DEF,Wolverhampton Wanderers,1,West Ham United,5.2,TRUE,2021,30,Semedo
+Ricardo Domingos Barbosa Pereira,3.736848,DEF,Leicester City,0.75,Manchester City,5.9,TRUE,2021,30,Pereira
+Kyle Walker-Peters,3.669344,DEF,Southampton,1,Burnley,4.7,TRUE,2021,30,Walker-Peters
+Harry Maguire,3.6299145,DEF,Manchester United,1,Brighton and Hove Albion,5.5,TRUE,2021,30,Maguire
+Gary Cahill,3.5246885,DEF,Crystal Palace,1,Everton,4.5,FALSE,2021,30,Cahill
+Joel Ward,3.5092602,DEF,Crystal Palace,1,Everton,4.3,FALSE,2021,30,Ward
+Conor Coady,3.4497333,DEF,Wolverhampton Wanderers,1,West Ham United,4.8,TRUE,2021,30,Coady
+Conor Townsend,3.3888469,DEF,West Bromwich Albion,1,Chelsea,4.4,FALSE,2021,30,Townsend
+Wesley Fofana,3.3536537,DEF,Leicester City,1,Manchester City,5,TRUE,2021,30,Fofana
+Pascal Struijk,3.3414478,DEF,Leeds,1,Sheffield United,4,TRUE,2021,30,Struijk
+Michael Keane,3.3413978,DEF,Everton,1,Crystal Palace,5.1,TRUE,2021,30,Keane
+James Tarkowski,3.323071,DEF,Burnley,1,Southampton,5.3,FALSE,2021,30,Tarkowski
+Jamaal Lascelles,3.2839448,DEF,Newcastle United,1,Tottenham Hotspur,4.2,TRUE,2021,30,Lascelles
+Ozan Kabak,3.283864,DEF,Liverpool,1,Arsenal,5,FALSE,2021,30,Kabak
+Kyle Bartley,3.256201,DEF,West Bromwich Albion,1,Chelsea,4.4,FALSE,2021,30,Bartley
+Tosin Adarabioyo,3.250778,DEF,Fulham,1,Aston Villa,4.5,FALSE,2021,30,Adarabioyo
+Ola Aina,3.1991987,DEF,Fulham,1,Aston Villa,4.6,FALSE,2021,30,Aina
+Ainsley Maitland-Niles,3.053007,DEF,West Bromwich Albion,1,Chelsea,4.6,FALSE,2021,30,Maitland-Niles
+Kenny Tete,3.0488555,DEF,Fulham,1,Aston Villa,4.3,FALSE,2021,30,Tete
+Ben White,3.0344934,DEF,Brighton and Hove Albion,1,Manchester United,4.4,FALSE,2021,30,White
+Ahmed El Mohamady,3.0113983,DEF,Aston Villa,1,Fulham,4.3,TRUE,2021,30,El Mohamady
+Joachim Andersen,2.865894,DEF,Fulham,1,Aston Villa,4.5,FALSE,2021,30,Andersen
+Ethan Ampadu,2.8522975,DEF,Sheffield United,1,Leeds,4.3,FALSE,2021,30,Ampadu
+Patrick van Aanholt,2.824618,DEF,Crystal Palace,1,Everton,5.4,FALSE,2021,30,van Aanholt
+Ben Godfrey,2.824494,DEF,Everton,1,Crystal Palace,5,TRUE,2021,30,Godfrey
+Vladimir Coufal,2.740953,DEF,West Ham United,1,Wolverhampton Wanderers,4.6,FALSE,2021,30,Coufal
+Enda Stevens,2.7015486,DEF,Sheffield United,1,Leeds,5,FALSE,2021,30,Stevens
+Issa Diop,2.6590993,DEF,West Ham United,1,Wolverhampton Wanderers,4.3,FALSE,2021,30,Diop
+Antonio Rudiger,2.6548152,DEF,Chelsea,1,West Bromwich Albion,4.6,TRUE,2021,30,Rudiger
+Victor Lindelof,2.6548152,DEF,Manchester United,1,Brighton and Hove Albion,4.8,TRUE,2021,30,Lindelof
+Emil Krafth,2.642282,DEF,Newcastle United,1,Tottenham Hotspur,4.2,TRUE,2021,30,Krafth
+Toby Alderweireld,2.5203133,DEF,Tottenham Hotspur,1,Newcastle United,5.4,FALSE,2021,30,Alderweireld
+Diego Llorente,2.488052,DEF,Leeds,1,Sheffield United,4.4,TRUE,2021,30,Llorente
+Sergio Reguilon,2.4243128,DEF,Tottenham Hotspur,1,Newcastle United,5.5,FALSE,2021,30,Reguilon
+Kean Bryan,2.4154599,DEF,Sheffield United,1,Leeds,3.9,FALSE,2021,30,Bryan
+Chris Basham,2.341211,DEF,Sheffield United,1,Leeds,4.6,FALSE,2021,30,Basham
+JoÃ£o Pedro Cavaco Cancelo,2.3379855,DEF,Manchester City,1,Leicester City,6.1,FALSE,2021,30,Cancelo
+Craig Dawson,2.3328419,DEF,West Ham United,1,Wolverhampton Wanderers,4.5,FALSE,2021,30,Dawson
+Davinson Sanchez,2.3319654,DEF,Tottenham Hotspur,1,Newcastle United,5.2,FALSE,2021,30,Sanchez
+Joel Veltman,2.3319654,DEF,Brighton and Hove Albion,1,Manchester United,4.4,FALSE,2021,30,Veltman
+Jonathan Castro Otto,2.309094,DEF,Wolverhampton Wanderers,1,West Ham United,5.4,TRUE,2021,30,Jonny
+Fernando Luiz Rosa,2.219096,DEF,Manchester City,1,Leicester City,5.4,FALSE,2021,30,Fernandinho
+George Baldock,2.1583242,DEF,Sheffield United,1,Leeds,4.9,FALSE,2021,30,Baldock
+Aaron Cresswell,2.1256366,DEF,West Ham United,1,Wolverhampton Wanderers,5.9,FALSE,2021,30,Cresswell
+Ruben Santos Gato Alves Dias,2.1170127,DEF,Manchester City,1,Leicester City,6.1,FALSE,2021,30,Dias
+Dan Burn,1.9804746,DEF,Brighton and Hove Albion,0.75,Manchester United,4.2,FALSE,2021,30,Burn
+Antonee Robinson,1.9001992,DEF,Fulham,1,Aston Villa,4.4,FALSE,2021,30,Robinson
+Andrew Robertson,1.8778857,DEF,Liverpool,1,Arsenal,7.1,FALSE,2021,30,Robertson
+Andreas Christensen,1.8498679,DEF,Chelsea,1,West Bromwich Albion,4.7,TRUE,2021,30,Christensen
+Marcos Alonso,1.8267361,DEF,Chelsea,1,West Bromwich Albion,5.7,TRUE,2021,30,Alonso
+Darnell Furlong,1.6038022,DEF,West Bromwich Albion,1,Chelsea,4.5,FALSE,2021,30,Furlong
+Hector Bellerin,1.391821,DEF,Arsenal,1,Liverpool,5.1,TRUE,2021,30,BellerÃ­n
+Gabriel MagalhÃ£es,1.391821,DEF,Arsenal,1,Liverpool,4.9,TRUE,2021,30,Gabriel
+John Stones,1.2689567,DEF,Manchester City,1,Leicester City,5.3,FALSE,2021,30,Stones
+Rayan Ait Nouri,1.233931,DEF,Wolverhampton Wanderers,1,West Ham United,5,TRUE,2021,30,Ait Nouri
+Eric Bailly,1.1745371,DEF,Manchester United,1,Brighton and Hove Albion,4.8,TRUE,2021,30,Bailly
+Kurt Zouma,1.1661944,DEF,Chelsea,1,West Bromwich Albion,5.3,TRUE,2021,30,Zouma
+Paul Dummett,1.1612235,DEF,Newcastle United,1,Tottenham Hotspur,4.4,TRUE,2021,30,Dummett
+Ben Davies,1.1002859,DEF,Liverpool,1,Arsenal,4.8,FALSE,2021,30,Davies
+Calum Chambers,1.0912697,DEF,Arsenal,1,Liverpool,4.5,TRUE,2021,30,Chambers
+Matthew Cash,1.0719225,DEF,Aston Villa,1,Fulham,5,TRUE,2021,30,Cash
+Willy Boly,1.0615819,DEF,Wolverhampton Wanderers,1,West Ham United,5.4,TRUE,2021,30,Boly
+Rob Holding,1.0607935,DEF,Arsenal,1,Liverpool,4.3,TRUE,2021,30,Holding
+Fernando MarÃ§al,1.0589856,DEF,Wolverhampton Wanderers,0.25,West Ham United,4.7,TRUE,2021,30,MarÃ§al
+Seamus Coleman,1.0505464,DEF,Everton,1,Crystal Palace,4.8,TRUE,2021,30,Coleman
+Branislav Ivanovic,1.0390613,DEF,West Bromwich Albion,1,Chelsea,4.4,FALSE,2021,30,Ivanovic
+Javier Manquillo,1.0352064,DEF,Newcastle United,1,Tottenham Hotspur,4.2,TRUE,2021,30,Manquillo
+Neco Williams,1.0350213,DEF,Liverpool,1,Arsenal,3.8,FALSE,2021,30,Neco Williams
+Ki-Jana Hoever,1.0182897,DEF,Wolverhampton Wanderers,1,West Ham United,4.4,TRUE,2021,30,Hoever
+Kevin Long,1.0155722,DEF,Burnley,1,Southampton,4.3,FALSE,2021,30,Long
+Joe Bryan,1.0064014,DEF,Fulham,1,Aston Villa,4.6,FALSE,2021,30,Bryan
+Oluwasemilogo Adesewo Ibidapo Ajayi,0.97436017,DEF,West Bromwich Albion,1,Chelsea,4.8,FALSE,2021,30,Ajayi
+Benjamin Chilwell,0.9708739,DEF,Chelsea,1,West Bromwich Albion,5.8,TRUE,2021,30,Chilwell
+Benjamin Mendy,0.96867007,DEF,Manchester City,1,Leicester City,5.9,FALSE,2021,30,Mendy
+Liam Cooper,0.96859574,DEF,Leeds,0.25,Sheffield United,4.3,TRUE,2021,30,Cooper
+Mohammed Salisu,0.9676075,DEF,Southampton,1,Burnley,4.3,TRUE,2021,30,Salisu
+Yerry Mina,0.95740265,DEF,Everton,1,Crystal Palace,5.5,TRUE,2021,30,Mina
+Lee Peltier,0.93599856,DEF,West Bromwich Albion,1,Chelsea,4,FALSE,2021,30,Peltier
+Pablo MarÃ­,0.9235879,DEF,Arsenal,1,Liverpool,4.4,TRUE,2021,30,MarÃ­
+Cedric Soares,0.9235879,DEF,Arsenal,1,Liverpool,4.6,TRUE,2021,30,CÃ©dric
+Tyrick Mitchell,0.9170147,DEF,Crystal Palace,0.5,Everton,3.8,FALSE,2021,30,Mitchell
+Luke Thomas,0.9079652,DEF,Leicester City,1,Manchester City,4.2,TRUE,2021,30,Thomas
+Japhet Tanganga,0.89938116,DEF,Tottenham Hotspur,1,Newcastle United,4.9,FALSE,2021,30,Tanganga
+Scott Dann,0.89563346,DEF,Crystal Palace,1,Everton,4.3,FALSE,2021,30,Dann
+Rhys Williams,0.8798491,DEF,Liverpool,1,Arsenal,4,FALSE,2021,30,Rhys Williams
+Aymeric Laporte,0.84871656,DEF,Manchester City,1,Leicester City,6,FALSE,2021,30,Laporte
+Eric Garcia,0.84620035,DEF,Manchester City,1,Leicester City,4.7,FALSE,2021,30,Garcia
+Jayden Bogle,0.8430427,DEF,Sheffield United,1,Leeds,4.3,FALSE,2021,30,Bogle
+Jamal Lewis,0.7826925,DEF,Newcastle United,1,Tottenham Hotspur,4.2,TRUE,2021,30,Lewis
+Ben Davies,0.7761215,DEF,Tottenham Hotspur,1,Newcastle United,4.6,FALSE,2021,30,Davies
+Nathaniel Clyne,0.74272746,DEF,Crystal Palace,0.5,Everton,4.5,FALSE,2021,30,Clyne
+Daniel Amartey,0.73498756,DEF,Leicester City,1,Manchester City,3.9,TRUE,2021,30,Amartey
+Dara O'Shea,0.7018415,DEF,West Bromwich Albion,1,Chelsea,4.2,FALSE,2021,30,O'Shea
+Ezgjan Alioski,0.697562,DEF,Leeds,1,Sheffield United,4.3,TRUE,2021,30,Alioski
+Phil Jagielka,0.6776195,DEF,Sheffield United,1,Leeds,3.9,FALSE,2021,30,Jagielka
+Eric Dier,0.6541394,DEF,Tottenham Hotspur,1,Newcastle United,4.8,FALSE,2021,30,Dier
+Kyle Walker,0.5793294,DEF,Manchester City,1,Leicester City,6.1,FALSE,2021,30,Walker
+Oleksandr Zinchenko,0.5754267,DEF,Manchester City,1,Leicester City,5.5,FALSE,2021,30,Zinchenko
+Erik Pieters,0.46244904,DEF,Burnley,1,Southampton,4.3,FALSE,2021,30,Pieters
+Reece James,0.37864327,DEF,Chelsea,1,West Bromwich Albion,5,TRUE,2021,30,James
+Nathaniel Phillips,0.3691306,DEF,Liverpool,1,Arsenal,4,FALSE,2021,30,Phillips
+Jack Stephens,0.33755305,DEF,Southampton,1,Burnley,4.6,TRUE,2021,30,Stephens
+Charlie Taylor,0.3044429,DEF,Burnley,0.5,Southampton,4.4,FALSE,2021,30,Taylor
+Ben Johnson,0.25586328,DEF,West Ham United,1,Wolverhampton Wanderers,3.9,FALSE,2021,30,Johnson
+Matt Doherty,0.22980943,DEF,Tottenham Hotspur,1,Newcastle United,5.6,FALSE,2021,30,Doherty
+Serge Aurier,0.22137493,DEF,Tottenham Hotspur,1,Newcastle United,5.2,FALSE,2021,30,Aurier
+Angelo Ogbonna,0.2166443,DEF,West Ham United,0,Wolverhampton Wanderers,4.8,FALSE,2021,30,Ogbonna
+James Tomkins,0.18306096,DEF,Crystal Palace,0,Everton,4.4,FALSE,2021,30,Tomkins
+Wes Morgan,0.17901549,DEF,Leicester City,0.5,Manchester City,4.4,TRUE,2021,30,Morgan
+Martin Kelly,0.07869815,DEF,Crystal Palace,1,Everton,4.1,FALSE,2021,30,Kelly
+Virgil van Dijk,0.075812496,DEF,Liverpool,0,Arsenal,6.2,FALSE,2021,30,van Dijk
+Phil Bardsley,0.06922586,DEF,Burnley,1,Southampton,4.4,FALSE,2021,30,Bardsley
+DeAndre Yedlin,0.057885576,DEF,Newcastle United,0,Tottenham Hotspur,4.3,TRUE,2021,30,Yedlin
+Christian Fuchs,0.057885576,DEF,Leicester City,1,Manchester City,4.5,TRUE,2021,30,Fuchs
+Ryan Bennett,0.05587709,DEF,Wolverhampton Wanderers,0,West Ham United,4.4,TRUE,2021,30,Bennett
+Sokratis Papastathopoulos,0.05587709,DEF,Arsenal,0,Liverpool,4.8,TRUE,2021,30,Sokratis
+Alfie Mawson,0.053789187,DEF,Fulham,0,Aston Villa,4.3,FALSE,2021,30,Mawson
+Terence Kongolo,0.051780686,DEF,Fulham,1,Aston Villa,4.3,FALSE,2021,30,Kongolo
+Chris Smalling,0.043087993,DEF,Manchester United,0,Brighton and Hove Albion,4.9,TRUE,2021,30,Smalling
+Adam Webster,0.040189788,DEF,Brighton and Hove Albion,0,Manchester United,4.3,FALSE,2021,30,Webster
+Mamadou Sakho,0.038991597,DEF,Crystal Palace,0,Everton,4.4,FALSE,2021,30,Sakho
+Kieran Gibbs,0.035312064,DEF,West Bromwich Albion,0.25,Chelsea,4.3,FALSE,2021,30,Gibbs
+Phil Jones,0.03345153,DEF,Manchester United,0,Brighton and Hove Albion,4.8,TRUE,2021,30,Jones
+Sead Kolasinac,0.024750918,DEF,Arsenal,0,Liverpool,4.8,TRUE,2021,30,Kolasinac
+Timothy Fosu-Mensah,0.02395506,DEF,Manchester United,0,Brighton and Hove Albion,4.3,TRUE,2021,30,Fosu-Mensah
+Jonjoe Kenny,0.02395506,DEF,Everton,0,Crystal Palace,4.3,TRUE,2021,30,Kenny
+Emerson Palmieri dos Santos,0.02395506,DEF,Chelsea,1,West Bromwich Albion,4.7,TRUE,2021,30,Emerson
+Neil Taylor,0.02395506,DEF,Aston Villa,1,Fulham,4.2,TRUE,2021,30,Taylor
+Danny Rose,0.020654518,DEF,Tottenham Hotspur,0,Newcastle United,4.7,FALSE,2021,30,Rose
+Joseph Gomez,0.020654518,DEF,Liverpool,0,Arsenal,5.2,FALSE,2021,30,Gomez
+Denis Odoi,0.01985866,DEF,Fulham,1,Aston Villa,4.2,FALSE,2021,30,Odoi
+Tim Ream,0.01985866,DEF,Fulham,1,Aston Villa,4.2,FALSE,2021,30,Ream
+Maxime Le Marchand,0.01985866,DEF,Fulham,0,Aston Villa,4.1,FALSE,2021,30,Le Marchand
+Florian Lejeune,0.016170515,DEF,Newcastle United,0,Tottenham Hotspur,4.3,TRUE,2021,30,Lejeune
+Marcos Rojo,0.016170515,DEF,Manchester United,0,Brighton and Hove Albion,4.8,TRUE,2021,30,Rojo
+Arthur Masuaku,0.014082629,DEF,West Ham United,0.25,Wolverhampton Wanderers,4.3,FALSE,2021,30,Masuaku
+Ben Gibson,0.012074118,DEF,Burnley,0,Southampton,3.9,FALSE,2021,30,Gibson
+Jack O'Connell,0.012074118,DEF,Sheffield United,0,Leeds,4.7,FALSE,2021,30,O'Connell
+Ryan Sessegnon,0.012074118,DEF,Tottenham Hotspur,0,Newcastle United,4.7,FALSE,2021,30,Sessegnon
+Kortney Hause,0.011601341,DEF,Aston Villa,0.5,Fulham,4.4,TRUE,2021,30,Hause
+John Egan,0.010030723,DEF,Sheffield United,0,Leeds,4.7,FALSE,2021,30,Egan
+Bjorn Engels,0.009520946,DEF,Aston Villa,1,Fulham,4.4,TRUE,2021,30,Engels
+Niels Nkounkou,0.009520946,DEF,Everton,1,Crystal Palace,4,TRUE,2021,30,Nkounkou
+Bernardo Fernandes da Silva Junior,0.008713444,DEF,Brighton and Hove Albion,0,Manchester United,3.9,FALSE,2021,30,Bernardo
+Alex Nicolao Telles,0.00585178,DEF,Manchester United,1,Brighton and Hove Albion,5.4,TRUE,2021,30,Telles
+Cyrus Christie,0.005424547,DEF,Fulham,0,Aston Villa,4.2,FALSE,2021,30,Christie
+Michael Hector,0.005424547,DEF,Fulham,1,Aston Villa,4.1,FALSE,2021,30,Hector
+Jack Robinson,0.005424547,DEF,Sheffield United,0,Leeds,4.2,FALSE,2021,30,Jack Robinson
+Yan Valery,0.004301313,DEF,Southampton,0,Burnley,4.7,TRUE,2021,30,Valery
+Oskar Buur,0.001736399,DEF,Wolverhampton Wanderers,0,West Ham United,3.9,TRUE,2021,30,Buur
+Fikayo Tomori,0.001736399,DEF,Chelsea,0,West Bromwich Albion,4.7,TRUE,2021,30,Tomori
+Jarrad Branthwaite,0.001736399,DEF,Everton,0,Crystal Palace,3.9,TRUE,2021,30,Branthwaite
+Robin Koch,0.001736399,DEF,Leeds,1,Sheffield United,4.3,TRUE,2021,30,Koch
+Konstantinos Tsimikas,0.001075095,DEF,Liverpool,1,Arsenal,4.9,FALSE,2021,30,Tsimikas
+Leif Davis,0.00105611,DEF,Leeds,0.75,Sheffield United,3.9,TRUE,2021,30,Davis
+Kelland Watts,0.00105611,DEF,Newcastle United,0,Tottenham Hotspur,3.9,TRUE,2021,30,Watts
+FrÃ©dÃ©ric Guilbert,-0.000343996,DEF,Aston Villa,0,Fulham,4.3,TRUE,2021,30,Guilbert
+James Bree,-0.000343996,DEF,Aston Villa,0,Fulham,4.5,TRUE,2021,30,Bree
+Oliver Casey,-0.000343996,DEF,Leeds,1,Sheffield United,3.9,TRUE,2021,30,Casey
+Barry Douglas,-0.000343996,DEF,Leeds,0,Sheffield United,3.8,TRUE,2021,30,Douglas
+Hugo Bueno,-0.000343996,DEF,Wolverhampton Wanderers,1,West Ham United,4,TRUE,2021,30,Bueno
+Teden Mengi,-0.000343996,DEF,Manchester United,0,Brighton and Hove Albion,3.9,TRUE,2021,30,Mengi
+JosÃ© Diogo Dalot Teixeira,-0.000343996,DEF,Manchester United,0,Brighton and Hove Albion,4.8,TRUE,2021,30,Dalot
+RÃºben GonÃ§alo Silva Nascimento Vinagre,-0.000343996,DEF,Wolverhampton Wanderers,0,West Ham United,4.1,TRUE,2021,30,Vinagre
+Charlie Cresswell,-0.000343996,DEF,Leeds,1,Sheffield United,4,TRUE,2021,30,Cresswell
+Nigel Lonwijk,-0.000343996,DEF,Wolverhampton Wanderers,1,West Ham United,4,TRUE,2021,30,Lonwijk
+Christian Marques,-0.000343996,DEF,Wolverhampton Wanderers,1,West Ham United,3.9,TRUE,2021,30,Marques
+Lewis Richards,-0.000343996,DEF,Wolverhampton Wanderers,1,West Ham United,4,TRUE,2021,30,Richards
+William Saliba,-0.000343996,DEF,Arsenal,0,Liverpool,4,TRUE,2021,30,Saliba
+Gaetano Berardi,-0.000343996,DEF,Leeds,1,Sheffield United,4,TRUE,2021,30,Berardi
+Vontae Daley-Campbell,-0.000343996,DEF,Leicester City,1,Manchester City,4,TRUE,2021,30,Daley-Campbell
+Filip Benkovic,-0.000343996,DEF,Leicester City,0,Manchester City,4.3,TRUE,2021,30,Benkovic
+Fabian SchÃ¤r,-0.000343996,DEF,Newcastle United,0,Tottenham Hotspur,4.9,TRUE,2021,30,SchÃ¤r
+Kyle John,-0.000343996,DEF,Everton,1,Crystal Palace,4,TRUE,2021,30,John
+Federico FernÃ¡ndez,-0.000343996,DEF,Newcastle United,1,Tottenham Hotspur,4.7,TRUE,2021,30,FernÃ¡ndez
+Ryan Astley,-0.000343996,DEF,Everton,1,Crystal Palace,4,TRUE,2021,30,Astley
+Max Lowe,-0.001021473,DEF,Sheffield United,1,Leeds,4.3,FALSE,2021,30,Lowe
+Jimmy Dunne,-0.002360002,DEF,Burnley,1,Southampton,3.8,FALSE,2021,30,Dunne
+Juan Foyth,-0.002360002,DEF,Tottenham Hotspur,0,Newcastle United,4.3,FALSE,2021,30,Foyth
+Tariq Lamptey,-0.002360002,DEF,Brighton and Hove Albion,0,Manchester United,4.6,FALSE,2021,30,Lamptey
+Ahmed El-Sayed Hegazy,-0.003040289,DEF,West Bromwich Albion,0,Chelsea,4.1,FALSE,2021,30,Hegazi
+Cameron Carter-Vickers,-0.004440395,DEF,Tottenham Hotspur,0,Newcastle United,3.9,FALSE,2021,30,Carter-Vickers
+Nathan AkÃ©,-0.004440395,DEF,Manchester City,1,Leicester City,5.4,FALSE,2021,30,AkÃ©
+NicolÃ¡s Otamendi,-0.004440395,DEF,Manchester City,0,Leicester City,4.9,FALSE,2021,30,Otamendi
+Zeze Steven Sessegnon,-0.004440395,DEF,Fulham,0,Aston Villa,4.3,FALSE,2021,30,Sessegnon
+Jamal Baptiste,-0.004440395,DEF,West Ham United,1,Wolverhampton Wanderers,4,FALSE,2021,30,Baptiste
+Frederik Alves,-0.004440395,DEF,West Ham United,1,Wolverhampton Wanderers,4,FALSE,2021,30,Alves
+Luke Mbete,-0.004440395,DEF,Manchester City,1,Leicester City,4,FALSE,2021,30,Mbete
+Bobby Thomas,-0.004440395,DEF,Burnley,0,Southampton,3.9,FALSE,2021,30,Thomas
+Taylor Harwood-Bellis,-0.004440395,DEF,Manchester City,0,Leicester City,4,FALSE,2021,30,Harwood-Bellis
+Cedric Kipre,-0.004440395,DEF,West Bromwich Albion,0,Chelsea,4.3,FALSE,2021,30,Kipre
+MartÃ­n Montoya,-0.004440395,DEF,Brighton and Hove Albion,0,Manchester United,4.5,FALSE,2021,30,Montoya
+Matthew Clarke,-0.004440395,DEF,Brighton and Hove Albion,0,Manchester United,4.4,FALSE,2021,30,Clarke
+Michal Karbownik,-0.004440395,DEF,Brighton and Hove Albion,1,Manchester United,4.5,FALSE,2021,30,Karbownik
+FabiÃ¡n Balbuena,-0.004440395,DEF,West Ham United,1,Wolverhampton Wanderers,4.2,FALSE,2021,30,Balbuena
+Anthony Driscoll-Glennon,-0.004440395,DEF,Burnley,1,Southampton,3.9,FALSE,2021,30,Driscoll-Glennon
+Reece Hannam,-0.004440395,DEF,Crystal Palace,1,Everton,4,FALSE,2021,30,Hannam
+Kyron Gordon,-0.004440395,DEF,Sheffield United,1,Leeds,4,FALSE,2021,30,Gordon
+Ryan Inniss,-0.004440395,DEF,Crystal Palace,0,Everton,4,FALSE,2021,30,Inniss
+Sam Woods,-0.004440395,DEF,Crystal Palace,0,Everton,4,FALSE,2021,30,Woods
+Nathan Ferguson,-0.004440395,DEF,Crystal Palace,0.5,Everton,3.8,FALSE,2021,30,Ferguson
+Richard Nartey,-0.004440395,DEF,Burnley,1,Southampton,4,FALSE,2021,30,Nartey
+Shane Duffy,-0.009759504,DEF,Brighton and Hove Albion,0,Manchester United,4.3,FALSE,2021,30,Duffy
+Thiago Thiago,-0.010094631,DEF,Chelsea,0,West Bromwich Albion,5.6,TRUE,2021,30,Thiago Silva
+Jake Vokins,-0.010132805,DEF,Southampton,0,Burnley,3.9,TRUE,2021,30,Vokins
+Allan Tchaptchet,-0.010132805,DEF,Southampton,1,Burnley,4,TRUE,2021,30,Tchaptchet
+Kayne Ramsay,-0.010132805,DEF,Southampton,1,Burnley,4,TRUE,2021,30,Ramsay
+Shkodran Mustafi,-0.022310823,DEF,Arsenal,0,Liverpool,5,TRUE,2021,30,Mustafi
+Joe Rodon,-0.027610723,DEF,Tottenham Hotspur,1,Newcastle United,5,FALSE,2021,30,Rodon
+Ryan Fredericks,-0.032202393,DEF,West Ham United,0.5,Wolverhampton Wanderers,4.2,FALSE,2021,30,Fredericks
+Axel Tuanzebe,-0.034500983,DEF,Manchester United,1,Brighton and Hove Albion,4.1,TRUE,2021,30,Tuanzebe
+Joel Matip,-0.047750335,DEF,Liverpool,0,Arsenal,5.4,FALSE,2021,30,Matip
+Brandon Williams,-0.08968122,DEF,Manchester United,1,Brighton and Hove Albion,4.2,TRUE,2021,30,Williams
+Max Kilman,-0.09687066,DEF,Wolverhampton Wanderers,1,West Ham United,4,TRUE,2021,30,Kilman
+James Justin,-0.097275615,DEF,Leicester City,0,Manchester City,4.9,TRUE,2021,30,Justin
+Bruno Miguel Borges Fernandes,8.421716,MID,Manchester United,1,Brighton and Hove Albion,11.5,TRUE,2021,30,Fernandes
+Ademola Lookman,5.2147045,MID,Fulham,1,Aston Villa,5.1,FALSE,2021,30,Lookman
+Pedro Lomba Neto,4.6187997,MID,Wolverhampton Wanderers,1,West Ham United,5.7,TRUE,2021,30,Neto
+Ruben Diogo da Silva Neves,4.372907,MID,Wolverhampton Wanderers,1,West Ham United,5.1,TRUE,2021,30,Neves
+Marcus Rashford,4.349117,MID,Manchester United,1,Brighton and Hove Albion,9.5,TRUE,2021,30,Rashford
+Mohamed Salah,4.31421,MID,Liverpool,1,Arsenal,12.4,FALSE,2021,30,Salah
+Riyad Mahrez,4.274845,MID,Manchester City,1,Leicester City,8.1,FALSE,2021,30,Mahrez
+Joseph Willock,4.191232,MID,Newcastle United,1,Tottenham Hotspur,4.7,TRUE,2021,30,Willock
+Mason Mount,4.0785885,MID,Chelsea,1,West Bromwich Albion,7,TRUE,2021,30,Mount
+Heung-Min Son,3.8972611,MID,Tottenham Hotspur,0.25,Newcastle United,9.5,FALSE,2021,30,Son
+Gareth Bale,3.8749852,MID,Tottenham Hotspur,1,Newcastle United,9.6,FALSE,2021,30,Bale
+John Lundstram,3.7773895,MID,Sheffield United,1,Leeds,4.9,FALSE,2021,30,Lundstram
+Jorge Luiz Frello Filho,3.7362754,MID,Chelsea,1,West Bromwich Albion,4.7,TRUE,2021,30,Jorginho
+Pascal GroÃŸ,3.7079322,MID,Brighton and Hove Albion,1,Manchester United,5.8,FALSE,2021,30,GroÃŸ
+Matheus Pereira,3.7043612,MID,West Bromwich Albion,1,Chelsea,5.3,FALSE,2021,30,Pereira
+Jairo Riedewald,3.6980624,MID,Crystal Palace,1,Everton,4.4,FALSE,2021,30,Riedewald
+Jesse Lingard,3.5936468,MID,West Ham United,1,Wolverhampton Wanderers,6.1,FALSE,2021,30,Lingard
+Youri Tielemans,3.5792968,MID,Leicester City,1,Manchester City,6.5,TRUE,2021,30,Tielemans
+Wilfried Zaha,3.4940548,MID,Crystal Palace,1,Everton,7.1,FALSE,2021,30,Zaha
+Diogo Jota,3.4672017,MID,Liverpool,1,Arsenal,6.6,FALSE,2021,30,Jota
+Eberechi Eze,3.4366393,MID,Crystal Palace,1,Everton,5.8,FALSE,2021,30,Eze
+John McGinn,3.3756933,MID,Aston Villa,1,Fulham,5.5,TRUE,2021,30,McGinn
+Scott McTominay,3.320885,MID,Manchester United,1,Brighton and Hove Albion,4.9,TRUE,2021,30,McTominay
+Tomas Soucek,3.28778,MID,West Ham United,1,Wolverhampton Wanderers,5.3,FALSE,2021,30,Soucek
+Martin Ã˜degaard,3.2619815,MID,Arsenal,1,Liverpool,6,TRUE,2021,30,Ã˜degaard
+AndrÃ© Filipe Tavares Gomes,3.2619815,MID,Everton,1,Crystal Palace,5.3,TRUE,2021,30,AndrÃ© Gomes
+JoÃ£o Filipe Iria Santos Moutinho,3.239672,MID,Wolverhampton Wanderers,1,West Ham United,5.2,TRUE,2021,30,Moutinho
+Adama TraorÃ©,3.239672,MID,Wolverhampton Wanderers,1,West Ham United,6,TRUE,2021,30,TraorÃ©
+James Ward-Prowse,3.2259474,MID,Southampton,1,Burnley,5.9,TRUE,2021,30,Ward-Prowse
+Isaac Hayden,3.2259119,MID,Newcastle United,1,Tottenham Hotspur,4.6,TRUE,2021,30,Hayden
+Sadio ManÃ©,3.1579611,MID,Liverpool,1,Arsenal,11.8,FALSE,2021,30,ManÃ©
+Leandro Trossard,3.120371,MID,Brighton and Hove Albion,1,Manchester United,5.8,FALSE,2021,30,Trossard
+Pierre-Emile HÃ¸jbjerg,3.0914347,MID,Tottenham Hotspur,1,Newcastle United,4.9,FALSE,2021,30,HÃ¸jbjerg
+Cheikhou KouyatÃ©,3.0914347,MID,Crystal Palace,1,Everton,4.8,FALSE,2021,30,KouyatÃ©
+Ibrahima Diallo,3.0750082,MID,Southampton,1,Burnley,4.5,TRUE,2021,30,Diallo
+Dwight McNeil,3.0743232,MID,Burnley,1,Southampton,5.7,FALSE,2021,30,McNeil
+Thomas Partey,3.0288448,MID,Arsenal,1,Liverpool,4.9,TRUE,2021,30,Partey
+Frederico Rodrigues de Paula Santos,3.0177603,MID,Manchester United,1,Brighton and Hove Albion,5.3,TRUE,2021,30,Fred
+Jonjo Shelvey,2.9696681,MID,Newcastle United,1,Tottenham Hotspur,5.3,TRUE,2021,30,Shelvey
+Stuart Armstrong,2.9348516,MID,Southampton,1,Burnley,5.5,TRUE,2021,30,Armstrong
+Kevin De Bruyne,2.934277,MID,Manchester City,1,Leicester City,11.9,FALSE,2021,30,De Bruyne
+Lucas Rodrigues Moura da Silva,2.9143105,MID,Tottenham Hotspur,1,Newcastle United,6.6,FALSE,2021,30,Lucas Moura
+N'Golo KantÃ©,2.8678837,MID,Chelsea,1,West Bromwich Albion,4.9,TRUE,2021,30,KantÃ©
+Daniel James,2.8656726,MID,Manchester United,1,Brighton and Hove Albion,6.2,TRUE,2021,30,James
+Ruben Loftus-Cheek,2.8649485,MID,Fulham,1,Aston Villa,5.9,FALSE,2021,30,Loftus-Cheek
+Nathan Redmond,2.8090396,MID,Southampton,1,Burnley,6.4,TRUE,2021,30,Redmond
+Tyler Roberts,2.779738,MID,Leeds,1,Sheffield United,4.6,TRUE,2021,30,Roberts
+Tanguy Ndombele,2.743207,MID,Tottenham Hotspur,1,Newcastle United,5.9,FALSE,2021,30,Ndombele
+Okay Yokuslu,2.7334673,MID,West Bromwich Albion,1,Chelsea,4.5,FALSE,2021,30,Yokuslu
+Raphael Dias Belloli,2.69849,MID,Leeds,1,Sheffield United,5.6,TRUE,2021,30,Raphinha
+Wilfred Ndidi,2.6868234,MID,Leicester City,1,Manchester City,4.8,TRUE,2021,30,Ndidi
+Declan Rice,2.6749177,MID,West Ham United,1,Wolverhampton Wanderers,4.7,FALSE,2021,30,Rice
+Pierre-Emerick Aubameyang,2.663566,MID,Arsenal,1,Liverpool,11.5,TRUE,2021,30,Aubameyang
+Ashley Westwood,2.633549,MID,Burnley,1,Southampton,5.3,FALSE,2021,30,Westwood
+Bernardo Mota Veiga de Carvalho e Silva,2.594076,MID,Manchester City,1,Leicester City,7.4,FALSE,2021,30,Bernardo Silva
+Kalvin Phillips,2.5328858,MID,Leeds,1,Sheffield United,4.9,TRUE,2021,30,Phillips
+Luka Milivojevic,2.4954965,MID,Crystal Palace,1,Everton,5.6,FALSE,2021,30,Milivojevic
+Leander Dendoncker,2.492196,MID,Wolverhampton Wanderers,1,West Ham United,4.6,TRUE,2021,30,Dendoncker
+Thiago AlcÃ¡ntara do Nascimento,2.4798107,MID,Liverpool,1,Arsenal,5.5,FALSE,2021,30,Thiago
+Josh Brownhill,2.4710479,MID,Burnley,1,Southampton,4.9,FALSE,2021,30,Brownhill
+Yves Bissouma,2.3760476,MID,Brighton and Hove Albion,1,Manchester United,4.4,FALSE,2021,30,Bissouma
+Granit Xhaka,2.3477924,MID,Arsenal,1,Liverpool,5.2,TRUE,2021,30,Xhaka
+Harrison Reed,2.2593498,MID,Fulham,1,Aston Villa,4.4,FALSE,2021,30,Reed
+Georginio Wijnaldum,2.2480228,MID,Liverpool,1,Arsenal,5.3,FALSE,2021,30,Wijnaldum
+Oliver Norwood,2.0676777,MID,Sheffield United,1,Leeds,4.5,FALSE,2021,30,Norwood
+John Fleck,1.9966794,MID,Sheffield United,1,Leeds,5.6,FALSE,2021,30,Fleck
+Willian Borges Da Silva,1.8917621,MID,Arsenal,0.75,Liverpool,7.5,TRUE,2021,30,Willian
+Allan Marques Loureiro,1.8878145,MID,Everton,1,Crystal Palace,5.2,TRUE,2021,30,Allan
+Nemanja Matic,1.8591332,MID,Manchester United,1,Brighton and Hove Albion,4.7,TRUE,2021,30,Matic
+Takumi Minamino,1.8046157,MID,Southampton,1,Burnley,6,TRUE,2021,30,Minamino
+Callum Hudson-Odoi,1.7865008,MID,Chelsea,1,West Bromwich Albion,5.7,TRUE,2021,30,Hudson-Odoi
+Andros Townsend,1.7626408,MID,Crystal Palace,1,Everton,5.5,FALSE,2021,30,Townsend
+Mason Greenwood,1.7025145,MID,Manchester United,1,Brighton and Hove Albion,7,TRUE,2021,30,Greenwood
+Anwar El Ghazi,1.7021087,MID,Aston Villa,1,Fulham,5.3,TRUE,2021,30,El Ghazi
+Bamidele Alli,1.6559298,MID,Tottenham Hotspur,1,Newcastle United,7.4,FALSE,2021,30,Alli
+Emile Smith Rowe,1.6445448,MID,Arsenal,1,Liverpool,4.2,TRUE,2021,30,Smith Rowe
+Jack Grealish,1.592893,MID,Aston Villa,0.5,Fulham,7.5,TRUE,2021,30,Grealish
+Hakim Ziyech,1.5639107,MID,Chelsea,1,West Bromwich Albion,7.9,TRUE,2021,30,Ziyech
+Gylfi Sigurdsson,1.5594199,MID,Everton,1,Crystal Palace,6.8,TRUE,2021,30,Sigurdsson
+Christian Pulisic,1.555474,MID,Chelsea,1,West Bromwich Albion,8.2,TRUE,2021,30,Pulisic
+Ryan Fraser,1.5263027,MID,Newcastle United,1,Tottenham Hotspur,5.6,TRUE,2021,30,Fraser
+Jack Harrison,1.5090044,MID,Leeds,1,Sheffield United,5.4,TRUE,2021,30,Harrison
+Alex Iwobi,1.4948248,MID,Everton,1,Crystal Palace,5.9,TRUE,2021,30,Iwobi
+Ferran Torres,1.4943053,MID,Manchester City,1,Leicester City,6.9,FALSE,2021,30,Torres
+Marc Albrighton,1.4939787,MID,Leicester City,1,Manchester City,5.2,TRUE,2021,30,Albrighton
+Mahmoud Ahmed Ibrahim Hassan,1.4803102,MID,Aston Villa,1,Fulham,5.2,TRUE,2021,30,TrÃ©zÃ©guet
+Pablo Fornals,1.4663968,MID,West Ham United,0.75,Wolverhampton Wanderers,5.9,FALSE,2021,30,Fornals
+Jarrod Bowen,1.460666,MID,West Ham United,1,Wolverhampton Wanderers,5.9,FALSE,2021,30,Bowen
+Curtis Jones,1.4578273,MID,Liverpool,1,Arsenal,4.4,FALSE,2021,30,Jones
+Xherdan Shaqiri,1.4400127,MID,Liverpool,1,Arsenal,6.4,FALSE,2021,30,Shaqiri
+James Milner,1.4398514,MID,Liverpool,1,Arsenal,5.3,FALSE,2021,30,Milner
+Daniel Ceballos FernÃ¡ndez,1.4346375,MID,Arsenal,1,Liverpool,4.7,TRUE,2021,30,Ceballos
+Johann Berg Gudmundsson,1.4327636,MID,Burnley,1,Southampton,5.4,FALSE,2021,30,Gudmundsson
+Mario Lemina,1.4318938,MID,Fulham,1,Aston Villa,4.5,FALSE,2021,30,Lemina
+Jacob Ramsey,1.3978946,MID,Aston Villa,1,Fulham,4.5,TRUE,2021,30,Ramsey
+Ross Barkley,1.3749778,MID,Aston Villa,1,Fulham,5.9,TRUE,2021,30,Barkley
+SaÃ¯d Benrahma,1.3252499,MID,West Ham United,1,Wolverhampton Wanderers,6,FALSE,2021,30,Benrahma
+Manuel Lanzini,1.3152225,MID,West Ham United,1,Wolverhampton Wanderers,6.4,FALSE,2021,30,Lanzini
+Moussa Sissoko,1.3140368,MID,Tottenham Hotspur,1,Newcastle United,4.7,FALSE,2021,30,Sissoko
+Matt Phillips,1.308746,MID,West Bromwich Albion,1,Chelsea,5.1,FALSE,2021,30,Phillips
+Nicolas PÃ©pÃ©,1.3052934,MID,Arsenal,1,Liverpool,7.6,TRUE,2021,30,PÃ©pÃ©
+HÃ©lder Wander Sousa de Azevedo e Costa,1.3052934,MID,Leeds,1,Sheffield United,5,TRUE,2021,30,Costa
+Raheem Sterling,1.2980261,MID,Manchester City,1,Leicester City,11.4,FALSE,2021,30,Sterling
+Adam Lallana,1.2967087,MID,Brighton and Hove Albion,1,Manchester United,6.2,FALSE,2021,30,Lallana
+Kai Havertz,1.2946957,MID,Chelsea,1,West Bromwich Albion,8.2,TRUE,2021,30,Havertz
+Sidnei Tavares,1.2914184,MID,Leicester City,1,Manchester City,4.4,TRUE,2021,30,Tavares
+Miguel AlmirÃ³n,1.2806793,MID,Newcastle United,0.75,Tottenham Hotspur,5.6,TRUE,2021,30,AlmirÃ³n
+Bertrand TraorÃ©,1.2806793,MID,Aston Villa,0.75,Fulham,5.9,TRUE,2021,30,TraorÃ©
+James Maddison,1.2774796,MID,Leicester City,0.5,Manchester City,7.1,TRUE,2021,30,Maddison
+Oliver Burke,1.2432579,MID,Sheffield United,1,Leeds,4.1,FALSE,2021,30,Burke
+Jacob Murphy,1.240501,MID,Newcastle United,1,Tottenham Hotspur,4.9,TRUE,2021,30,Murphy
+Alex Oxlade-Chamberlain,1.2309172,MID,Liverpool,1,Arsenal,6.3,FALSE,2021,30,Chamberlain
+Robbie Brady,1.2202758,MID,Burnley,1,Southampton,5,FALSE,2021,30,Brady
+AndrÃ©-Frank Zambo Anguissa,1.1959058,MID,Fulham,1,Aston Villa,4.5,FALSE,2021,30,Anguissa
+Bernard AnÃ­cio Caldeira Duarte,1.1737446,MID,Everton,1,Crystal Palace,5.7,TRUE,2021,30,Bernard
+James RodrÃ­guez,1.1717185,MID,Everton,0.5,Crystal Palace,7.7,TRUE,2021,30,RodrÃ­guez
+Ayoze Perez,1.1717185,MID,Leicester City,1,Manchester City,6,TRUE,2021,30,Perez
+Ilkay Gundogan,1.1712917,MID,Manchester City,1,Leicester City,6.2,FALSE,2021,30,Gundogan
+Phil Foden,1.1673065,MID,Manchester City,1,Leicester City,6.1,FALSE,2021,30,Foden
+Marvelous Nakamba,1.1515441,MID,Aston Villa,1,Fulham,4.3,TRUE,2021,30,Nakamba
+Mohamed Naser El Sayed Elneny,1.1505817,MID,Arsenal,1,Liverpool,4.2,TRUE,2021,30,Elneny
+Rodrigo Hernandez,1.1421031,MID,Manchester City,1,Leicester City,5.3,FALSE,2021,30,Rodrigo
+Jeffrey Schlupp,1.142,MID,Crystal Palace,1,Everton,5.3,FALSE,2021,30,Schlupp
+Mateusz Klich,1.1382078,MID,Leeds,1,Sheffield United,5.2,TRUE,2021,30,Klich
+Jeff Hendrick,1.1363078,MID,Newcastle United,1,Tottenham Hotspur,4.5,TRUE,2021,30,Hendrick
+Bukayo Saka,1.1202562,MID,Arsenal,0.75,Liverpool,5.3,TRUE,2021,30,Saka
+Naby Keita,1.1200604,MID,Liverpool,1,Arsenal,5.2,FALSE,2021,30,Keita
+Nathan Tella,1.1170899,MID,Southampton,1,Burnley,4.3,TRUE,2021,30,Tella
+Jakub Moder,1.1124905,MID,Brighton and Hove Albion,1,Manchester United,5,FALSE,2021,30,Moder
+Morgan Sanson,1.1028266,MID,Aston Villa,1,Fulham,5.5,TRUE,2021,30,Sanson
+Nampalys Mendy,1.1009693,MID,Leicester City,1,Manchester City,4.2,TRUE,2021,30,Mendy
+Mateo Kovacic,1.0834403,MID,Chelsea,1,West Bromwich Albion,5.3,TRUE,2021,30,Kovacic
+Matt Ritchie,1.0717539,MID,Newcastle United,1,Tottenham Hotspur,4.9,TRUE,2021,30,Ritchie
+Davy Propper,1.070535,MID,Brighton and Hove Albion,1,Manchester United,4.8,FALSE,2021,30,Propper
+Cengiz Ãœnder,1.0702305,MID,Leicester City,0.5,Manchester City,5.7,TRUE,2021,30,Ãœnder
+Hamza Choudhury,1.0653191,MID,Leicester City,1,Manchester City,4.7,TRUE,2021,30,Choudhury
+Mark Noble,1.0596378,MID,West Ham United,1,Wolverhampton Wanderers,4.5,FALSE,2021,30,Noble
+Iliman Ndiaye,1.052736,MID,Sheffield United,1,Leeds,4.5,FALSE,2021,30,Ndiaye
+Thakgalo Leshabela,1.0524316,MID,Leicester City,1,Manchester City,4.4,TRUE,2021,30,Leshabela
+Alireza Jahanbakhsh,1.0480969,MID,Brighton and Hove Albion,1,Manchester United,5.4,FALSE,2021,30,Jahanbakhsh
+Morgan Gibbs-White,1.0422671,MID,Wolverhampton Wanderers,1,West Ham United,4.9,TRUE,2021,30,Gibbs-White
+Ivan Ricardo Neves Abreu Cavaleiro,1.0234774,MID,Fulham,1,Aston Villa,5.3,FALSE,2021,30,Cavaleiro
+Jamie Shackleton,1.0219748,MID,Leeds,1,Sheffield United,4.8,TRUE,2021,30,Shackleton
+Josh Onomah,1.0206399,MID,Fulham,1,Aston Villa,4.6,FALSE,2021,30,Onomah
+Fabio Henrique Tavares,1.0181229,MID,Liverpool,1,Arsenal,5.4,FALSE,2021,30,Fabinho
+Douglas Luiz Soares de Paulo,1.0142792,MID,Aston Villa,1,Fulham,4.8,TRUE,2021,30,Douglas Luiz
+Tom Davies,1.0071211,MID,Everton,1,Crystal Palace,5.2,TRUE,2021,30,Davies
+Grady Diangana,1.0009578,MID,West Bromwich Albion,1,Chelsea,5,FALSE,2021,30,Diangana
+Moussa Djenepo,0.99459016,MID,Southampton,1,Burnley,5.4,TRUE,2021,30,Djenepo
+Robert Snodgrass,0.9900501,MID,West Bromwich Albion,1,Chelsea,5.6,FALSE,2021,30,Snodgrass
+Ben Osborn,0.9843043,MID,Sheffield United,1,Leeds,4.7,FALSE,2021,30,Osborn
+Harry Winks,0.963318,MID,Tottenham Hotspur,1,Newcastle United,5.1,FALSE,2021,30,Winks
+Jake Livermore,0.9573466,MID,West Bromwich Albion,1,Chelsea,4.7,FALSE,2021,30,Livermore
+Steven Alzate,0.94185317,MID,Brighton and Hove Albion,1,Manchester United,4.2,FALSE,2021,30,Alzate
+Donny van de Beek,0.9301102,MID,Manchester United,1,Brighton and Hove Albion,6.6,TRUE,2021,30,van de Beek
+James McCarthy,0.9222532,MID,Crystal Palace,0.5,Everton,4.3,FALSE,2021,30,McCarthy
+Jack Cork,0.9036746,MID,Burnley,0.5,Southampton,5,FALSE,2021,30,Cork
+Caleb Watts,0.8810399,MID,Southampton,1,Burnley,4.5,TRUE,2021,30,Watts
+Alexis Mac Allister,0.8738754,MID,Brighton and Hove Albion,1,Manchester United,5.3,FALSE,2021,30,Mac Allister
+Conor Gallagher,0.48922572,MID,West Bromwich Albion,0,Chelsea,5.5,FALSE,2021,30,Gallagher
+Solomon March,0.104677595,MID,Brighton and Hove Albion,0,Manchester United,5,FALSE,2021,30,March
+Aaron Mooy,0.09525552,MID,Brighton and Hove Albion,0,Manchester United,5,FALSE,2021,30,Mooy
+Jordan Henderson,0.083567984,MID,Liverpool,0,Arsenal,5.4,FALSE,2021,30,Henderson
+Steven Bergwijn,0.026809476,MID,Tottenham Hotspur,1,Newcastle United,7,FALSE,2021,30,Bergwijn
+Conor Hourihane,0.011402631,MID,Aston Villa,0,Fulham,5.9,TRUE,2021,30,Hourihane
+Matthew Longstaff,0.008987635,MID,Newcastle United,1,Tottenham Hotspur,4.8,TRUE,2021,30,Matty Longstaff
+Romaine Sawyers,0.008136929,MID,West Bromwich Albion,1,Chelsea,4.6,FALSE,2021,30,Sawyers
+Sam Field,0.005799147,MID,West Bromwich Albion,0,Chelsea,4.8,FALSE,2021,30,Field
+Aboubakar Kamara,0.005799147,MID,Fulham,0,Aston Villa,4.8,FALSE,2021,30,Kamara
+Giovani Lo Celso,0.005799147,MID,Tottenham Hotspur,1,Newcastle United,6.9,FALSE,2021,30,Lo Celso
+Harry Wilson,0.005799147,MID,Liverpool,0,Arsenal,5.1,FALSE,2021,30,Harry Wilson
+Max Meyer,0.005799147,MID,Crystal Palace,0,Everton,4.7,FALSE,2021,30,Meyer
+Sander Berge,0.005799147,MID,Sheffield United,0,Leeds,4.9,FALSE,2021,30,Berge
+Dennis Praet,0.005494718,MID,Leicester City,1,Manchester City,5.2,TRUE,2021,30,Praet
+Adam Forshaw,0.005494718,MID,Leeds,0,Sheffield United,4.8,TRUE,2021,30,Forshaw
+Reiss Nelson,0.005494718,MID,Arsenal,1,Liverpool,5.1,TRUE,2021,30,Nelson
+Andreas Pereira,0.005494718,MID,Manchester United,0,Brighton and Hove Albion,4.8,TRUE,2021,30,Pereira
+Kevin McDonald,0.002730467,MID,Fulham,0,Aston Villa,4.7,FALSE,2021,30,McDonald
+Matty James,0.002426039,MID,Leicester City,0,Manchester City,4.3,TRUE,2021,30,James
+Henri Lansbury,-0.002639981,MID,Aston Villa,0,Fulham,4.3,TRUE,2021,30,Lansbury
+Erik Lamela,-0.003657397,MID,Tottenham Hotspur,0,Newcastle United,5.7,FALSE,2021,30,Lamela
+Kamil Grosicki,-0.00402716,MID,West Bromwich Albion,1,Chelsea,5.2,FALSE,2021,30,Grosicki
+Tahith Chong,-0.004498417,MID,Manchester United,0,Brighton and Hove Albion,4.4,TRUE,2021,30,Chong
+James Garner,-0.004498417,MID,Manchester United,0,Brighton and Hove Albion,4.4,TRUE,2021,30,Garner
+Percy Tau,-0.004750548,MID,Brighton and Hove Albion,1,Manchester United,4.9,FALSE,2021,30,Tau
+Stefan Johansen,-0.005230012,MID,Fulham,0,Aston Villa,4.7,FALSE,2021,30,Johansen
+Daniel Castelo Podence,-0.005657848,MID,Wolverhampton Wanderers,0.25,West Ham United,5.3,TRUE,2021,30,Podence
+Felipe Anderson Pereira Gomes,-0.005862254,MID,West Ham United,0,Wolverhampton Wanderers,6.1,FALSE,2021,30,Felipe Anderson
+Anthony Knockaert,-0.005862254,MID,Fulham,0,Aston Villa,5,FALSE,2021,30,Knockaert
+Tom Cairney,-0.005862254,MID,Fulham,0,Aston Villa,5.2,FALSE,2021,30,Cairney
+Jack Wilshere,-0.005862254,MID,West Ham United,0,Wolverhampton Wanderers,4.9,FALSE,2021,30,Wilshere
+Demarai Gray,-0.006166684,MID,Leicester City,0,Manchester City,5.1,TRUE,2021,30,Gray
+Fabian Delph,-0.006166684,MID,Everton,0,Crystal Palace,4.8,TRUE,2021,30,Delph
+Sofiane Boufal,-0.006166684,MID,Southampton,0,Burnley,5.4,TRUE,2021,30,Boufal
+Sean Longstaff,-0.006166684,MID,Newcastle United,1,Tottenham Hotspur,4.6,TRUE,2021,30,Sean Longstaff
+Christian Atsu,-0.006166684,MID,Newcastle United,0,Tottenham Hotspur,5.2,TRUE,2021,30,Atsu
+Lucas Torreira,-0.006166684,MID,Arsenal,0,Liverpool,4.7,TRUE,2021,30,Torreira
+Zak Brunt,-0.008243466,MID,Sheffield United,1,Leeds,4.5,FALSE,2021,30,Brunt
+Jean MichaÃ«l Seri,-0.008243466,MID,Fulham,0,Aston Villa,4.6,FALSE,2021,30,Seri
+Claudio Gomes,-0.008243466,MID,Manchester City,1,Leicester City,4.5,FALSE,2021,30,Gomes
+Cole Palmer,-0.008243466,MID,Manchester City,1,Leicester City,4.4,FALSE,2021,30,Palmer
+Kyle Edwards,-0.008243466,MID,West Bromwich Albion,1,Chelsea,4.7,FALSE,2021,30,Edwards
+Rekeem Harper,-0.008243466,MID,West Bromwich Albion,0,Chelsea,4.3,FALSE,2021,30,Harper
+Luke Freeman,-0.008243466,MID,Sheffield United,0,Leeds,5,FALSE,2021,30,Freeman
+Leighton Clarkson,-0.008243466,MID,Liverpool,1,Arsenal,4.5,FALSE,2021,30,Clarkson
+Frankie Maguire,-0.008243466,MID,Sheffield United,1,Leeds,4.4,FALSE,2021,30,Maguire
+Felix Nmecha,-0.008243466,MID,Manchester City,1,Leicester City,4.5,FALSE,2021,30,Nmecha
+Filip Krovinovic,-0.008243466,MID,West Bromwich Albion,0,Chelsea,4.9,FALSE,2021,30,Krovinovic
+Neeskens Kebano,-0.008243466,MID,Fulham,0,Aston Villa,4.7,FALSE,2021,30,Kebano
+Jake Cain,-0.008243466,MID,Liverpool,1,Arsenal,4.5,FALSE,2021,30,Cain
+AdriÃ¡n BernabÃ©,-0.008243466,MID,Manchester City,1,Leicester City,4.5,FALSE,2021,30,BernabÃ©
+JosÃ© Izquierdo,-0.008243466,MID,Brighton and Hove Albion,1,Manchester United,5.5,FALSE,2021,30,Izquierdo
+Conor Coventry,-0.008243466,MID,West Ham United,1,Wolverhampton Wanderers,4.5,FALSE,2021,30,Coventry
+Mace Goodridge,-0.008243466,MID,Burnley,0,Southampton,4.5,FALSE,2021,30,Goodridge
+Anthony Mancini,-0.008243466,MID,Burnley,1,Southampton,4.4,FALSE,2021,30,Mancini
+Alfie Devine,-0.008243466,MID,Tottenham Hotspur,1,Newcastle United,4.4,FALSE,2021,30,Devine
+Oliver Skipp,-0.008243466,MID,Tottenham Hotspur,0,Newcastle United,4.4,FALSE,2021,30,Skipp
+Teddy Jenks,-0.008243466,MID,Brighton and Hove Albion,1,Manchester United,4.5,FALSE,2021,30,Jenks
+Max Sanders,-0.008243466,MID,Brighton and Hove Albion,0,Manchester United,4.5,FALSE,2021,30,Sanders
+Jensen Weir,-0.008243466,MID,Brighton and Hove Albion,1,Manchester United,4.5,FALSE,2021,30,Weir
+MoisÃ©s Caicedo,-0.008243466,MID,Brighton and Hove Albion,1,Manchester United,5,FALSE,2021,30,Caicedo
+Jordan Stevens,-0.008547895,MID,Leeds,0,Sheffield United,4.3,TRUE,2021,30,Stevens
+Mateusz Bogusz,-0.008547895,MID,Leeds,0,Sheffield United,4.3,TRUE,2021,30,Bogusz
+Ryan Finnigan,-0.008547895,MID,Southampton,1,Burnley,4.5,TRUE,2021,30,Finnigan
+Jay-Roy Grot,-0.008547895,MID,Leeds,0,Sheffield United,4.7,TRUE,2021,30,Grot
+Pablo HernÃ¡ndez DomÃ­nguez,-0.008547895,MID,Leeds,0,Sheffield United,5.7,TRUE,2021,30,HernÃ¡ndez
+Shane Flynn,-0.008547895,MID,Leicester City,1,Manchester City,4.5,TRUE,2021,30,Flynn
+Adrien Silva,-0.008547895,MID,Leicester City,0,Manchester City,4.4,TRUE,2021,30,Silva
+Amad Diallo,-0.008547895,MID,Manchester United,1,Brighton and Hove Albion,5.4,TRUE,2021,30,Diallo
+Facundo Pellistri,-0.008547895,MID,Manchester United,0,Brighton and Hove Albion,5.2,TRUE,2021,30,Pellistri
+Rolando Aarons,-0.008547895,MID,Newcastle United,0,Tottenham Hotspur,4.8,TRUE,2021,30,Aarons
+Josh Sims,-0.008547895,MID,Southampton,0,Burnley,4.3,TRUE,2021,30,Sims
+Will Ferry,-0.008547895,MID,Southampton,1,Burnley,4.5,TRUE,2021,30,Ferry
+Kgaogelo Chauke,-0.008547895,MID,Southampton,1,Burnley,4.4,TRUE,2021,30,Chauke
+William Smallbone,-0.008547895,MID,Southampton,0,Burnley,4.4,TRUE,2021,30,Smallbone
+Anthony Gordon,-0.008547895,MID,Everton,0,Crystal Palace,4.3,TRUE,2021,30,Gordon
+Luke Cundle,-0.008547895,MID,Wolverhampton Wanderers,1,West Ham United,4.5,TRUE,2021,30,Cundle
+Taylor Perry,-0.008547895,MID,Wolverhampton Wanderers,1,West Ham United,4.5,TRUE,2021,30,Perry
+Theo Corbeanu,-0.008547895,MID,Wolverhampton Wanderers,1,West Ham United,4.5,TRUE,2021,30,Corbeanu
+Meritan Shabani,-0.008547895,MID,Wolverhampton Wanderers,0,West Ham United,4.4,TRUE,2021,30,Shabani
+Bruno AndrÃ© Cavaco Jordao,-0.008547895,MID,Wolverhampton Wanderers,0,West Ham United,4.3,TRUE,2021,30,Jordao
+Jean-Philippe Gbamin,-0.008547895,MID,Everton,0,Crystal Palace,5,TRUE,2021,30,Gbamin
+Jack Jenkins,-0.008547895,MID,Leeds,1,Sheffield United,4.5,TRUE,2021,30,Jenkins
+Abdoulaye Doucoure,-0.008547895,MID,Everton,0,Crystal Palace,5.2,TRUE,2021,30,Doucoure
+Tyler Onyango,-0.008547895,MID,Everton,1,Crystal Palace,4.5,TRUE,2021,30,Onyango
+Nathan Broadhead,-0.008547895,MID,Everton,1,Crystal Palace,4.5,TRUE,2021,30,Broadhead
+Billy Gilmour,-0.008547895,MID,Chelsea,1,West Bromwich Albion,4.4,TRUE,2021,30,Gilmour
+Faustino Anjorin,-0.008547895,MID,Chelsea,1,West Bromwich Albion,4.5,TRUE,2021,30,Anjorin
+Jota Ignacio Peleteiro Romallo,-0.008547895,MID,Aston Villa,0,Fulham,5.9,TRUE,2021,30,Jota
+Kaine Hayden,-0.008547895,MID,Aston Villa,1,Fulham,4.5,TRUE,2021,30,Hayden
+Carney Chukwuemeka,-0.008547895,MID,Aston Villa,1,Fulham,4.5,TRUE,2021,30,Chukwuemeka
+Mesut Ozil,-0.008547895,MID,Arsenal,0,Liverpool,6.7,TRUE,2021,30,Ozil
+Jaden Philogene-Bidace,-0.008547895,MID,Aston Villa,1,Fulham,4.5,TRUE,2021,30,Philogene-Bidace
+Juan Mata,-0.008820987,MID,Manchester United,0.5,Brighton and Hove Albion,5.8,TRUE,2021,30,Mata
+Matteo Guendouzi,-0.009235363,MID,Arsenal,0,Liverpool,4.7,TRUE,2021,30,Guendouzi
+Tommy Doyle,-0.010101903,MID,Manchester City,1,Leicester City,4.4,FALSE,2021,30,Doyle
+Jayson Molumby,-0.010101903,MID,Brighton and Hove Albion,0,Manchester United,4.5,FALSE,2021,30,Molumby
+Harvey Elliott,-0.010101903,MID,Liverpool,0,Arsenal,4.3,FALSE,2021,30,Elliott
+Gedson Carvalho Fernandes,-0.010101903,MID,Tottenham Hotspur,0,Newcastle United,4.7,FALSE,2021,30,Fernandes
+Brandon Pierrick,-0.010101903,MID,Crystal Palace,0,Everton,4.3,FALSE,2021,30,Pierrick
+Jonathan Leko,-0.010101903,MID,West Bromwich Albion,0,Chelsea,4.5,FALSE,2021,30,Leko
+Alexandre Jankewitz,-0.018056478,MID,Southampton,1,Burnley,4.5,TRUE,2021,30,Jankewitz
+Ian Carlo Poveda-Ocampo,-0.0183742,MID,Leeds,1,Sheffield United,4.2,TRUE,2021,30,Poveda-Ocampo
+Elliot Anderson,-0.01910618,MID,Newcastle United,1,Tottenham Hotspur,4.5,TRUE,2021,30,Anderson
+Gabriel Teodoro Martinelli Silva,-0.021261718,MID,Arsenal,1,Liverpool,4.9,TRUE,2021,30,Martinelli
+Vitor Ferreira,-0.0215589,MID,Wolverhampton Wanderers,1,West Ham United,4.7,TRUE,2021,30,Vitinha
+Josh Benson,-0.022851232,MID,Burnley,1,Southampton,4.5,FALSE,2021,30,Benson
+Reda Khadra,-0.024709668,MID,Brighton and Hove Albion,1,Manchester United,4.5,FALSE,2021,30,Khadra
+Shola Shoretire,-0.03781576,MID,Manchester United,1,Brighton and Hove Albion,4.5,TRUE,2021,30,Shoretire
+Owen Otasowie,-0.03850198,MID,Wolverhampton Wanderers,1,West Ham United,4.5,TRUE,2021,30,Otasowie
+Andriy Yarmolenko,-0.046321385,MID,West Ham United,0,Wolverhampton Wanderers,5.5,FALSE,2021,30,Yarmolenko
+Oriol Romeu Vidal,-0.07751491,MID,Southampton,0,Burnley,4.5,TRUE,2021,30,Oriol Romeu
+Harvey Barnes,-0.12178264,MID,Leicester City,0,Manchester City,6.7,TRUE,2021,30,Barnes
+Dale Stephens,-0.13154894,MID,Burnley,1,Southampton,4.2,FALSE,2021,30,Stephens
+Theo Walcott,-0.13888243,MID,Southampton,0.5,Burnley,5.8,TRUE,2021,30,Walcott
+Paul Pogba,-0.14927,MID,Manchester United,1,Brighton and Hove Albion,7.6,TRUE,2021,30,Pogba
+James McArthur,-0.25872523,MID,Crystal Palace,0.5,Everton,5.2,FALSE,2021,30,McArthur
+Allan Saint-Maximin,-0.26799414,MID,Newcastle United,0,Tottenham Hotspur,5.1,TRUE,2021,30,Saint-Maximin
+Jamie Vardy,9.050678,FWD,Leicester City,1,Manchester City,10.2,TRUE,2021,30,Vardy
+Jordan Ayew,8.339176,FWD,Crystal Palace,1,Everton,5.6,FALSE,2021,30,Ayew
+Michail Antonio,7.1955943,FWD,West Ham United,1,Wolverhampton Wanderers,6.7,FALSE,2021,30,Antonio
+Dominic Calvert-Lewin,5.7618513,FWD,Everton,1,Crystal Palace,7.6,TRUE,2021,30,Calvert-Lewin
+Mbaye Diagne,5.386655,FWD,West Bromwich Albion,1,Chelsea,6,FALSE,2021,30,Diagne
+Neal Maupay,4.845501,FWD,Brighton and Hove Albion,1,Manchester United,6.1,FALSE,2021,30,Maupay
+Richarlison de Andrade,4.807697,FWD,Everton,1,Crystal Palace,8,TRUE,2021,30,Richarlison
+Chris Wood,3.9011219,FWD,Burnley,1,Southampton,6.2,FALSE,2021,30,Wood
+Che Adams,3.6112075,FWD,Southampton,1,Burnley,5.8,TRUE,2021,30,Adams
+Gabriel Fernando de Jesus,3.4291482,FWD,Manchester City,1,Leicester City,9.2,FALSE,2021,30,Jesus
+Anthony Martial,3.2750816,FWD,Manchester United,0.75,Brighton and Hove Albion,8.6,TRUE,2021,30,Martial
+Josh Maja,3.1344507,FWD,Fulham,1,Aston Villa,5.5,FALSE,2021,30,Maja
+Harry Kane,3.0744462,FWD,Tottenham Hotspur,1,Newcastle United,11.5,FALSE,2021,30,Kane
+Ollie Watkins,2.9473455,FWD,Aston Villa,1,Fulham,6.6,TRUE,2021,30,Watkins
+Rodrigo Moreno,2.8683767,FWD,Leeds,0.75,Sheffield United,5.7,TRUE,2021,30,Rodrigo
+Christian Benteke,2.502902,FWD,Crystal Palace,1,Everton,5.5,FALSE,2021,30,Benteke
+Patrick Bamford,2.257037,FWD,Leeds,0.75,Sheffield United,6.7,TRUE,2021,30,Bamford
+Alexandre Lacazette,2.2490253,FWD,Arsenal,1,Liverpool,8.1,TRUE,2021,30,Lacazette
+Jay Rodriguez,2.1650128,FWD,Burnley,1,Southampton,5.8,FALSE,2021,30,Rodriguez
+Joelinton CÃ¡ssio ApolinÃ¡rio de Lira,2.0669355,FWD,Newcastle United,1,Tottenham Hotspur,5.7,TRUE,2021,30,Joelinton
+Edinson Cavani,2.0563104,FWD,Manchester United,1,Brighton and Hove Albion,7.8,TRUE,2021,30,Cavani
+Willian Jose Da Silva,2.0240753,FWD,Wolverhampton Wanderers,1,West Ham United,6.9,TRUE,2021,30,Willian Jose
+Roberto Firmino,1.9934571,FWD,Liverpool,0.75,Arsenal,9.1,FALSE,2021,30,Firmino
+Danny Ings,1.9348063,FWD,Southampton,0.5,Burnley,8.4,TRUE,2021,30,Ings
+Olivier Giroud,1.8162638,FWD,Chelsea,1,West Bromwich Albion,6.7,TRUE,2021,30,Giroud
+Danny Welbeck,1.711453,FWD,Brighton and Hove Albion,1,Manchester United,5.5,FALSE,2021,30,Welbeck
+Michy Batshuayi,1.687922,FWD,Crystal Palace,1,Everton,5.7,FALSE,2021,30,Batshuayi
+Sergio Aguero,1.674384,FWD,Manchester City,1,Leicester City,10.3,FALSE,2021,30,Aguero
+Rhian Brewster,1.6511867,FWD,Sheffield United,1,Leeds,4.4,FALSE,2021,30,Brewster
+Kelechi Iheanacho,1.6290753,FWD,Leicester City,1,Manchester City,5.7,TRUE,2021,30,Iheanacho
+Dwight Gayle,1.6190786,FWD,Newcastle United,1,Tottenham Hotspur,5.9,TRUE,2021,30,Gayle
+Ashley Barnes,1.6004008,FWD,Burnley,0.5,Southampton,6,FALSE,2021,30,Barnes
+Timo Werner,1.4865847,FWD,Chelsea,1,West Bromwich Albion,9.2,TRUE,2021,30,Werner
+Billy Sharp,1.4764442,FWD,Sheffield United,1,Leeds,5.5,FALSE,2021,30,Sharp
+David McGoldrick,1.4212372,FWD,Sheffield United,0.75,Leeds,5.2,FALSE,2021,30,McGoldrick
+Aaron Connolly,1.4187601,FWD,Brighton and Hove Albion,1,Manchester United,5.2,FALSE,2021,30,Connolly
+Carlos Vinicius Alves Morais,1.3032126,FWD,Tottenham Hotspur,1,Newcastle United,6.9,FALSE,2021,30,Carlos Vinicius
+Lys Mousset,1.2612697,FWD,Sheffield United,1,Leeds,5.8,FALSE,2021,30,Mousset
+Keinan Davis,1.1807917,FWD,Aston Villa,1,Fulham,4.3,TRUE,2021,30,Davis
+Aleksandar Mitrovic,1.1738001,FWD,Fulham,1,Aston Villa,5.5,FALSE,2021,30,Mitrovic
+Jean-Philippe Mateta,1.139923,FWD,Crystal Palace,1,Everton,5.6,FALSE,2021,30,Mateta
+Niall Huggins,1.1278362,FWD,Leeds,1,Sheffield United,4.5,TRUE,2021,30,Huggins
+Andi Zeqiri,1.0733664,FWD,Brighton and Hove Albion,1,Manchester United,5,FALSE,2021,30,Zeqiri
+Fabio Silva,1.0440558,FWD,Wolverhampton Wanderers,1,West Ham United,5.2,TRUE,2021,30,Fabio Silva
+Hal Robson-Kanu,1.0054226,FWD,West Bromwich Albion,1,Chelsea,5.2,FALSE,2021,30,Robson-Kanu
+Andy Carroll,0.99375635,FWD,Newcastle United,1,Tottenham Hotspur,5.1,TRUE,2021,30,Carroll
+Daniel N'Lundulu,0.93745005,FWD,Southampton,1,Burnley,4.5,TRUE,2021,30,N'Lundulu
+Joel Mumbongo,0.9309338,FWD,Burnley,1,Southampton,4.5,FALSE,2021,30,Mumbongo
+Karlan Grant,0.92734396,FWD,West Bromwich Albion,1,Chelsea,5.7,FALSE,2021,30,Grant
+Joshua King,0.7748263,FWD,Everton,1,Crystal Palace,5.3,TRUE,2021,30,King
+Oliver McBurnie,0.6616694,FWD,Sheffield United,1,Leeds,5.6,FALSE,2021,30,McBurnie
+Matej Vydra,0.37194303,FWD,Burnley,1,Southampton,4.8,FALSE,2021,30,Vydra
+Callum Wilson,0.3225125,FWD,Newcastle United,0.25,Tottenham Hotspur,6.5,TRUE,2021,30,Wilson
+Tammy Abraham,0.10800349,FWD,Chelsea,0,West Bromwich Albion,7.1,TRUE,2021,30,Abraham
+Shane Long,0.034319855,FWD,Southampton,0,Burnley,5.1,TRUE,2021,30,Long
+Divock Origi,0.032876275,FWD,Liverpool,0.75,Arsenal,5.1,FALSE,2021,30,Origi
+Mbwana Samatta,0.028217044,FWD,Aston Villa,0,Fulham,5.9,TRUE,2021,30,Samatta
+Michael Obafemi,0.02734197,FWD,Southampton,0,Burnley,4.6,TRUE,2021,30,Obafemi
+Moise Kean,0.02734197,FWD,Everton,0,Crystal Palace,5.7,TRUE,2021,30,Kean
+Yoshinori Muto,0.02734197,FWD,Newcastle United,0,Tottenham Hotspur,4.8,TRUE,2021,30,Muto
+Odion Ighalo,0.02734197,FWD,Manchester United,0,Brighton and Hove Albion,6.1,TRUE,2021,30,Ighalo
+Islam Slimani,0.02734197,FWD,Leicester City,0,Manchester City,4.9,TRUE,2021,30,Slimani
+Wesley Moraes,0.02734197,FWD,Aston Villa,0.25,Fulham,6,TRUE,2021,30,Wesley
+Cenk Tosun,0.02734197,FWD,Everton,0,Crystal Palace,6,TRUE,2021,30,Tosun
+Raul Jiminez,0.006874394,FWD,Wolverhampton Wanderers,0,West Ham United,8.1,TRUE,2021,30,Jiminez
+Leonardo Campana,0.006874394,FWD,Wolverhampton Wanderers,1,West Ham United,4.8,TRUE,2021,30,Campana
+Joe Gelhardt,0.006874394,FWD,Leeds,1,Sheffield United,4.5,TRUE,2021,30,Gelhardt
+Ellis Simms,0.006874394,FWD,Everton,0,Crystal Palace,4.5,TRUE,2021,30,Simms
+Indiana Vassilev,0.006874394,FWD,Aston Villa,0,Fulham,4.3,TRUE,2021,30,Vassilev
+LÃ©o Bonatini,0.006874394,FWD,Wolverhampton Wanderers,0,West Ham United,4.8,TRUE,2021,30,Bonatini
+Edward Nketiah,-0.001718498,FWD,Arsenal,1,Liverpool,5.4,TRUE,2021,30,Nketiah
+Patrick Cutrone,-0.005747626,FWD,Wolverhampton Wanderers,0,West Ham United,5.9,TRUE,2021,30,Cutrone
+Glenn Murray,-0.006608321,FWD,Brighton and Hove Albion,0,Manchester United,4.8,FALSE,2021,30,Murray
+Liam Delap,-0.009381376,FWD,Manchester City,1,Leicester City,4.3,FALSE,2021,30,Delap
+Sebastien Haller,-0.010256451,FWD,West Ham United,0,Wolverhampton Wanderers,6.1,FALSE,2021,30,Haller
+Cheikh Diaby,-0.010256451,FWD,West Bromwich Albion,1,Chelsea,4.5,FALSE,2021,30,Diaby
+Jordan Hugill,-0.010256451,FWD,West Ham United,0,Wolverhampton Wanderers,5.5,FALSE,2021,30,Hugill
+Albian Ajeti,-0.010256451,FWD,West Ham United,0,Wolverhampton Wanderers,5.5,FALSE,2021,30,Ajeti
+Ademipo Odubeko,-0.010256451,FWD,West Ham United,1,Wolverhampton Wanderers,4.5,FALSE,2021,30,Odubeko
+Antwoine Hackford,-0.010256451,FWD,Sheffield United,1,Leeds,4.4,FALSE,2021,30,Hackford
+Max Thompson,-0.010256451,FWD,Burnley,1,Southampton,4.5,FALSE,2021,30,Thompson
+Lewis Richardson,-0.013002895,FWD,Burnley,1,Southampton,4.5,FALSE,2021,30,Richardson
+Florin Andone,-0.013586208,FWD,Brighton and Hove Albion,0,Manchester United,4.8,FALSE,2021,30,Andone
+Connor Wickham,-0.013586208,FWD,Crystal Palace,1,Everton,4.4,FALSE,2021,30,Wickham
+Charlie Austin,-0.013586208,FWD,West Bromwich Albion,0,Chelsea,5.1,FALSE,2021,30,Austin
+Kenneth Zohore,-0.013586208,FWD,West Bromwich Albion,0,Chelsea,4.8,FALSE,2021,30,Zohore
+Callum Robinson,-0.018772079,FWD,West Bromwich Albion,1,Chelsea,5.2,FALSE,2021,30,Callum Robinson
+Dane Scarlett,-0.039316922,FWD,Tottenham Hotspur,1,Newcastle United,4.5,FALSE,2021,30,Scarlett
+Bobby Decordova-Reid,-0.27475095,FWD,Fulham,0,Aston Villa,5.3,FALSE,2021,30,Decordova-Reid
