@@ -9,7 +9,7 @@ import time
 
 @st.cache
 def get_FPL_data():
-    df = pd.read_csv("combined_GW30.csv")
+    df = pd.read_csv("combined_GW32.csv")
     return df
 
 st.title('FPL Predictions WebApp')
