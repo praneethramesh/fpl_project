@@ -141,7 +141,7 @@ else:
 
 if st.sidebar.button('Intercorelation Heatmap'):
     st.header('Intercorelation Matrix Heatmap')
-    st.markdown('Each square shows the correlation between the variables on each axis. Values closer to zero means there is no linear trend between the two variables. Value closer to 1 means they are more positively correlated; that is as one increases so does the other and stronger the relationship between the two. The diagonals are correlating each variable to itself. For the rest the darker the color the higher the correlation between the two variables.')
+    st.markdown('Each square shows the correlation between the variables on each axis. Values closer to zero means there is no linear trend between the two variables. Value closer to 1 means they are more positively correlated; that is as one increases so does the other and stronger the relationship between the two. The diagonals are correlating each variable to itself. For the rest the lighter the color the higher the correlation between the two variables.')
     df = pd.read_csv("FPL20-GW20.csv")
     df = df.drop('GW21Forecast', 1)
     df = df.drop('GW22Forecast', 1)
