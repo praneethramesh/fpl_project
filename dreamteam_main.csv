@@ -1,0 +1,9 @@
+﻿Player,Predicted Points,Position,Team,Play Probability,Opponent Team,Price,At_Home,Season,Minutes,GW,FirstName
+Edouard Mendy,5.760044,GK,Chelsea,1,Brighton and Hove Albion,5.2,TRUE,2021,90,32,Mendy
+Trent Alexander-Arnold,5.3236175,DEF,Liverpool,1,Leeds,7.4,FALSE,2021,71,32,Alexander-Arnold
+Matt Targett,4.9756207,DEF,Aston Villa,1,Manchester City,5,TRUE,2021,90,32,Targett
+Stuart Dallas,4.8966627,DEF,Leeds,1,Liverpool,5.1,TRUE,2021,90,32,Dallas
+Bruno Miguel Borges Fernandes,8.820005,MID,Manchester United,1,Burnley,11.6,TRUE,2021,89.75,32,Fernandes
+Heung-Min Son,8.413389,MID,Tottenham Hotspur,1,Southampton,9.4,TRUE,2021,60.75,32,Son
+Paul Pogba,5.359929,MID,Manchester United,1,Burnley,7.6,TRUE,2021,86.5,32,Pogba
+Jamie Vardy,9.050678,FWD,Leicester City,1,West Bromwich Albion,10.1,TRUE,2021,90,32,Vardy
