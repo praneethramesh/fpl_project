@@ -14,7 +14,7 @@ def get_FPL_data():
 
 st.title('FPL Predictions WebApp')
 
-st.markdown('GW 30 Predictions')
+st.markdown('GW 32 Predictions')
 
 st.markdown('Choose the teams and positions for which you want to scout players for FPL and click Apply')
 
