@@ -64,7 +64,7 @@ def top10fwd(df):
     df2=df.head(10)
     df2
 
-    st.write(df2.iloc[0]['Player'],', has the highest predicted score for GW30')
+    st.write(df2.iloc[0]['Player'],', has the highest predicted score for GW32')
     fig = px.line(df2, x ='Predicted Points',y='FirstName')
     st.plotly_chart(fig)
 
@@ -76,7 +76,7 @@ def top10mid(df):
     df3=df.head(10)
     df3
 
-    st.write(df3.iloc[0]['Player'],', has the highest predicted score for GW30')
+    st.write(df3.iloc[0]['Player'],', has the highest predicted score for GW32')
     fig = px.line(df3, x ='Predicted Points',y='FirstName')
     st.plotly_chart(fig)
 
@@ -88,7 +88,7 @@ def top10def(df):
     df4=df.head(10)
     df4
     
-    st.write(df4.iloc[0]['Player'],', has the highest predicted score for GW30')
+    st.write(df4.iloc[0]['Player'],', has the highest predicted score for GW32')
     fig = px.line(df4, x ='Predicted Points',y='FirstName')
     st.plotly_chart(fig)
 
@@ -100,7 +100,7 @@ def top5gk(df):
     df5=df.head(5)
     df5
 
-    st.write(df5.iloc[0]['Player'],', has the highest predicted score for GW30')
+    st.write(df5.iloc[0]['Player'],', has the highest predicted score for GW32')
     fig = px.line(df5, x ='Predicted Points',y='FirstName')
     st.plotly_chart(fig)
 
@@ -171,7 +171,7 @@ if st.sidebar.button('Intercorelation Heatmap'):
     st.pyplot(f)
 
 if st.sidebar.button('DreamTeam Composition Prediction'):
-    st.title("Predicted Dreamteam Composition for GW30")
+    st.title("Predicted Dreamteam Composition for GW32")
     df6=dreamTeam()
     df6
 
@@ -179,7 +179,7 @@ if st.sidebar.button('DreamTeam Composition Prediction'):
     st.plotly_chart(fig)
 
 expander = st.beta_expander("Method behind the Madness:")
-expander.write("We have used the FPL data from 2017-2019 to train our model. We have used XG Boost to predict the FPL points for all the players in GW30 of 20/21 Season")
+expander.write("We have used the FPL data from 2017-2019 to train our model. We have used XG Boost to predict the FPL points for all the players in GW32 of 20/21 Season")
 expander.write("'The Ball is round, the game lasts 90 minutes, and everything else is just Theory' - Josef Sepp Herberger ")
 expander.write("An experiment by Darshil Prajapati & Praneeth Ramesh")
 
